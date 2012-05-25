@@ -57,6 +57,10 @@ body p img {
 	border-style: none none solid none;
 	border-width: thin;
 	border-color: #dddddd;
+	padding-top: 10px;
+}
+.frontpage .contentarea h2 {
+	padding-top: 10px;
 }
 .software .contentarea h1 {
 	border-style: none none solid none;
@@ -111,4 +115,18 @@ body p img {
 .carousel-imagearea {
 	width: 590px;
 	height: 243px;
+}
+
+div.date {
+	font-size: 18px;
+	line-height: 36px;
+	font-weight: normal;
+	color: #999999;
+}
+
+.copyright {
+	padding-top:10px;
+	padding-bottom:10px;
+	font-size: 11px;
+	color: #999999;
 }

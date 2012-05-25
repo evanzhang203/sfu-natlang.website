@@ -93,9 +93,6 @@ extrascript: |
 	{% endstringtolist %}
 </div>
 {% for post in site.posts limit:5 %}
-<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | inline_textile }}</a></h2>
-<div class="date">
-	{{ post.date | date_to_string }}
-</div>
+<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | inline_textile }}</a> <small class="date">{{ post.date | date_to_string }}</small></h2>
 {{ post.content }}
 {% endfor %}
