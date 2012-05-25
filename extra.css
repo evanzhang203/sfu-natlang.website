@@ -92,6 +92,10 @@ body p img {
 	border-style: none;
 }
 
+.bibliography {
+	padding-top: 10px;
+}
+
 .bibliography .publicationlinks li {
 	font-size: 11px;
 }
