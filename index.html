@@ -5,7 +5,12 @@ pageclass: frontpage
 extrascript: |
   <script type="text/javascript">
   $(function() {
-  	$('#featured').carousel({interval: false, pause: true});
+  	var featured = $('#featured');
+  	var num = $('#featured .carousel-inner .item').length;
+  	featured.carousel({interval: false, pause: true});
+  	featured.removeClass('slide');
+  	featured.carousel(Math.floor(Math.random() * num));
+  	featured.addClass('slide');
   });
   </script>
 ---
