@@ -1,6 +1,6 @@
 permalink: posts/:year-:month-:day-:title
 featured:
-  list_file: featured
+  list_file: _featured
 bibtex:
   file: publications.bib
   out_skip_keys: url abstract
