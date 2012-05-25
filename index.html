@@ -16,7 +16,7 @@ extrascript: |
 		{% featured %}
 		{% for item in featured %}
 		<div class="item{% if first %} active{% endif %}">
-			<div style="width: 590px; height: 243px">
+			<div class="carousel-imagearea">
 				{% if item.url %}
 				<a href="{{ site.baseurl }}{{ item.url }}"><img src="{{ site.baseurl }}{{ item.img }}" alt=""></a>
 				{% else %}

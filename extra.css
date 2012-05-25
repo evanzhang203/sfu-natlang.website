@@ -107,3 +107,8 @@ body p img {
 .contentarea img.pull-right {
 	clear: right;
 }
+
+.carousel-imagearea {
+	width: 590px;
+	height: 243px;
+}
