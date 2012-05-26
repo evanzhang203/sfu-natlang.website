@@ -57,9 +57,11 @@ body p img {
 	border-style: none none solid none;
 	border-width: thin;
 	border-color: #dddddd;
+}
+.contentarea h1 {
 	padding-top: 10px;
 }
-.frontpage .contentarea h2 {
+.contentarea h2 {
 	padding-top: 10px;
 }
 .software .contentarea h1 {
