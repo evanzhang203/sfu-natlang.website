@@ -47,7 +47,7 @@ h2. Ph.D. Students
 * "Gholamreza Haffari":http://www.cs.sfu.ca/~ghaffar1/personal -- Tenure-track faculty member at "Monash University":http://www.monash.edu.au/, Melbourne, Australia
 * Eli Hagen
 * Petr Kubon -- Director of Research and Development, Recombo
-* "Yudong Liu":http://www.sfu.ca/~yudongl/
+* "Yudong Liu":http://www.sfu.ca/~yudongl/ -- Lecturer, "Western Washington University":http://www.wwu.edu/
 * T. (Pat) Pattabhiraman -- Senior engineer in computational linguistics, Core Technology Group, Conversay, Redmond, WA
 * "Maxim Roy":http://www.cs.sfu.ca/~maximr/personal/ -- "Northside Inc.":http://northsideinc.com/
 * Zhongmin Shi -- CEO, Summba.com
