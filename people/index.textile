@@ -24,6 +24,7 @@ h2. Masters Students
 * "Marzieh Razavi":http://www.cs.sfu.ca/~mrazavi/personal
 * "Max Whitney":http://www.cs.sfu.ca/~mwhitney/personal
 * "Ravikiran Vadlapudi":http://www.cs.sfu.ca/~rvadlapu/personal
+* David Lindberg
 
 h1. Adjunct Members
 
