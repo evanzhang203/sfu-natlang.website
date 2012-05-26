@@ -14,18 +14,16 @@ h2. Faculty
 h2. Ph.D. Students
 
 * "Ann Clifton":http://www.cs.sfu.ca/~aca69/personal
-* Majid Razmara
-* Baskaran Sankaran
+* "Majid Razmara":http://www.cs.sfu.ca/~mra44/personal
+* "Baskaran Sankaran":http://www.cs.sfu.ca/~bsa33/personal
 * "Milan Tofiloski":http://www.cs.sfu.ca/~mta45/personal
-* Maryam Siahbani
+* "Maryam Siahbani":http://www.cs.sfu.ca/~msiabhan/personal
 
 h2. Masters Students
 
-* Fahim Hasan
-* Marzieh Razavi
-* Asqar Saypil
+* "Marzieh Razavi":http://www.cs.sfu.ca/~mrazavi/personal
 * "Max Whitney":http://www.cs.sfu.ca/~mwhitney/personal
-* Ravikiran Vadlapudi
+* "Ravikiran Vadlapudi":http://www.cs.sfu.ca/~rvadlapu/personal
 
 h1. Adjunct Members
 
@@ -46,12 +44,12 @@ h2. Ph.D. Students
 * Caroline Barrière -- Research Officer, Interactive Language Technologies, NRC Institute for Information Technology
 * Baohua Gu
 * "David Gerhard":http://www2.cs.uregina.ca/~gerhard/ -- Associate Professor, University of Regina
-* "Gholamreza Haffari":http://www.cs.sfu.ca/~ghaffar1/personal -- Postdoc at UBC
+* "Gholamreza Haffari":http://www.cs.sfu.ca/~ghaffar1/personal -- Tenure-track faculty member at "Monash University":http://www.monash.edu.au/, Melbourne, Australia
 * Eli Hagen
 * Petr Kubon -- Director of Research and Development, Recombo
 * "Yudong Liu":http://www.sfu.ca/~yudongl/
 * T. (Pat) Pattabhiraman -- Senior engineer in computational linguistics, Core Technology Group, Conversay, Redmond, WA
-* "Maxim Roy":http://www.cs.sfu.ca/~maximr/personal/
+* "Maxim Roy":http://www.cs.sfu.ca/~maximr/personal/ -- "Northside Inc.":http://northsideinc.com/
 * Zhongmin Shi -- CEO, Summba.com
 * "Tomek Strzalkowski":http://www.cs.albany.edu/~tomek/ -- Associate Professor, SUNY Albany
 * "Jörg Überla":http://www.linkedin.com/pub/j%C3%B6rg-%C3%BCberla/0/3a9/286 -- Venture Partner at Wellington Partners
@@ -64,8 +62,9 @@ h2. Masters Students
 * Cesar Dragunsky
 * Akshay Gattani -- Zeugma Systems
 * Ajeet Grewal -- BC Ferries
+* Fahim Hasan
 * Mehdi Kashani -- Innovative Information
-* Young-chan Kim
+* Young-chan Kim -- Ph.D. student at University of Texas at Dallas
 * Tomohiko Kimura
 * Sandi Kodric -- Co-Founder of "Vzajemci d.o.o.":http://vzajemci.com/
 * "Fred Kroon":http://www.cs.uwaterloo.ca/~fwkroon/ -- Ph.D. candidate at University of Waterloo
