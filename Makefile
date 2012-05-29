@@ -9,6 +9,9 @@ all:
 # Install to the live site.
 install: all
 	rsync --recursive --delete _site/ "$(LIVEDIR)"
+	chgrp -R natlang "$(LIVEDIR)"
+	chmod g+rw "$(LIVEDIR)"
+	find "$(LIVEDIR)" -type d -exec chmod g+x {} \;
 
 # Build locally with the base-url set for testing. Don't copy to the live site from here.
 local:
