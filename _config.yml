@@ -4,7 +4,7 @@ featured:
 bibtex:
   file: publications.bib
   out_skip_keys: url abstract
-  bibtex_skip_keys: abstract
+  bibtex_skip_keys: abstract key fileorder pageurl monthnum
   sort_keys: -year order
   page_dir: publications
   page_layout: publication
