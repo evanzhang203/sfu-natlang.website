@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Lab meeting: Wednesday June 13 11:00am"
+---
+
+The next lab meeting will be Wednesday June 13 2012, at 11:00am in TASC1 9408. Max Whitney will do another practice talk for his ACL presentation:
+
+notextile.. <div>
+{% referencelist %}
+@inproceedings{whitney-sarkar:2012,
+  author = {Whitney, Max and Sarkar, Anoop},
+  title = {Bootstrapping via Graph Propagation},
+  booktitle = {Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (ACL-2012)},
+  year = {2012},
+  month = {jul},
+  address = {Jeju Island, R. of Korea},
+  publisher = {Association for Computational Linguistics},
+  url = {http://www.cs.sfu.ca/~mwhitney/personal/test/jekyll/_site/software#yarowsky},
+  pdf = {http://www2.cs.sfu.ca/~mwhitney/personal/yarowsky-propagation.pdf},
+  abstract = {{Bootstrapping a classifier from a small set of seed rules can be viewed as the propagation of labels between examples via features shared between them. This paper introduces a novel variant of the Yarowsky algorithm based on this view. It is a bootstrapping learning method which uses a graph propagation algorithm with a well defined objective function. The experimental results show that our proposed bootstrapping algorithm achieves state of the art performance or better on several different natural language data sets.}}
+}
+{% endreferencelist %}
+</div>
+
+We will also begin to discuss this year's NAACL and WMT.
