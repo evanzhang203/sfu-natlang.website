@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Syntax-to-Morphology Mapping in Factored SMT: Talk by Kemal Oflazer
+title: "Syntax-to-Morphology Mapping in Factored SMT: Talk by Kemal Oflazer"
 ---
 
-!http://www.andrew.cmu.edu/user/ko/ko-picture.jpg(Kemal Oflazer will give a talk at SFU)!
+!{width: 188px; height: 243px}http://www.andrew.cmu.edu/user/ko/ko-picture.jpg(Kemal Oflazer will give a talk at SFU)!
 
 * Title: Syntax-to-Morphology Mapping in Factored SMT
 * Speaker: Dr. Kemal Oflazer, Carnegie Mellon University - Qatar
