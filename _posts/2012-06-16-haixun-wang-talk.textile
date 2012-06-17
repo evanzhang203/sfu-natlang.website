@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Probase: A Probabilistic Semantic Network for Text Understanding: Talk by Haixun Wang
+title: Probase\: A Probabilistic Semantic Network for Text Understanding, Talk by Haixun Wang
 ---
 
 !http://research.microsoft.com/en-us/people/haixunw/dsc_1331-1.jpg(Haixun Wang talks about Probase)!
 
 h2. Seminar announcement
 
-* Title: Probase: A Probabilistic Semantic Network for Text Understanding
+* Title: Probase, A Probabilistic Semantic Network for Text Understanding
 * Speaker: Haixun Wang, Ph.D. Senior Researcher, Microsoft Research Asia
 * Date and time: 10:30 am, July 5 (Thursday), 2012
 * Location: TASC I Building, Room 9204, Burnaby Campus
