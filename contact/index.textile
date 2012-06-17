@@ -22,7 +22,7 @@ h1. Phone Numbers
 
 Lab phone: +1.778.782.3208
 Fax: +1.778.782.3045
-Email: nll-help@sfu.ca
+Email: nll-contact _at_ sfu dot ca
 
 Lab FAX number: +1-778-782-3045
 
