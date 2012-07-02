@@ -3,7 +3,7 @@ layout: post
 title: Talk at KAIST July 12, 2012
 ---
 
-!{{ site.baseurl }}images/kaist-talk.png(Anoop Sarkar gives invited talk at KAIST)!
+!{width: 300px}{{ site.baseurl }}images/kaist-talk.png(Anoop Sarkar gives invited talk at KAIST)!
 
 Anoop Sarkar will talk about "Four Methods for Morpheme-based Machine Translation" at KAIST in Daejeon, Korea.
 
