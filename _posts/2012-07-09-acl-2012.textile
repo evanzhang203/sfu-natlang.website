@@ -8,6 +8,7 @@ The SFU Natural Language Lab has the following presentations at "ACL 2012":http:
 bq. Session 5C: July 10, 2pm-3:30pm. Machine Learning track
 _Bootstrapping as Graph Propagation_.
 Max Whitney and Anoop Sarkar
+("slides":http://www2.cs.sfu.ca/~mwhitney/personal/yarowsky-propagation-slides.pdf from the presentation)
 
 bq. Long Papers Poster Session: July 9, 6pm-8:30pm
 L-17, _Mixing multiple translation models in statistical machine translation_
