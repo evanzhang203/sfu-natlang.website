@@ -3,7 +3,7 @@ layout: post
 title: SFU Natlang Lab at ACL 2012
 ---
 
-The SFU Natural Language Lab has the following presentations at ACL 2012. Visit us if you are in Jeju Island. Majid Razmara, Max Whitney and Anoop Sarkar are attending the conference.
+The SFU Natural Language Lab has the following presentations at "ACL 2012":http://www.acl2012.org. Visit us if you are in Jeju Island. Majid Razmara, Max Whitney and Anoop Sarkar are attending the conference.
 
 bq. Session 5C: July 10, 2pm-3:30pm. Machine Learning track
 _Bootstrapping as Graph Propagation_.
