@@ -10,7 +10,7 @@ h1(#yarowsky). Yarowsky algorithm
 
 * "Github":https://github.com/sfu-natlang/yarowsky
 
-An implementation of the Yarowsky algorithm and other bootstrapping algorithms. This software accompanies the paper "Bootstrapping via Graph Propagation":{{ site.baseurl }}/publications/whitneysarkar2012 by Max Whitney and Anoop Sarkar, which appears in the Proceedings of ACL 2012.
+An implementation of the Yarowsky algorithm and other bootstrapping algorithms. This software accompanies the paper "Bootstrapping via Graph Propagation":{{ site.baseurl }}/publications/whitneysarkar2012 by Max Whitney and Anoop Sarkar, which appears in the Proceedings of ACL 2012. There are also "slides":http://www2.cs.sfu.ca/~mwhitney/personal/yarowsky-propagation-slides.pdf from the ACL presentation.
 
 h1(#lensingwikipedia). Lensing Wikipedia
 
