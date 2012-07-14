@@ -3,7 +3,7 @@ layout: post
 title: "Probase: A Probabilistic Semantic Network for Text Understanding by Haixun Wang"
 ---
 
-!{width: 150px}http://research.microsoft.com/en-us/people/haixunw/dsc_1331-1.jpg(Haixun Wang talks about Probase)!
+!<{width: 150px}http://research.microsoft.com/en-us/people/haixunw/dsc_1331-1.jpg(Haixun Wang talks about Probase)!
 
 h2. Seminar announcement
 
