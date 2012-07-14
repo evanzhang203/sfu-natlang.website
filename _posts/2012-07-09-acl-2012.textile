@@ -12,7 +12,7 @@ L-17, _Mixing multiple translation models in statistical machine translation_
 Majid Razmara, George Foster, Baskaran Sankaran and Anoop Sarkar
 
 bq. Session 5C: July 10, 2pm-3:30pm. Machine Learning track
-_Bootstrapping as Graph Propagation_.
+_Bootstrapping via graph propagation_
 Max Whitney and Anoop Sarkar
 ("slides":http://www2.cs.sfu.ca/~mwhitney/personal/yarowsky-propagation-slides.pdf from the presentation)
 
