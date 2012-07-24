@@ -3,6 +3,8 @@ layout: post
 title: "Design talk versus science talk by Ted Kirkpatrick"
 ---
 
+!<{width: 150px}http://www.cs.sfu.ca/people/Faculty/ted/ted-thumbnail.jpg(Ted Kirkpatrick)!
+
 h2. Lab Meeting
 
 * Title: Design talk versus science talk: A computational linguistics comparison of research articles in computing and climate science
