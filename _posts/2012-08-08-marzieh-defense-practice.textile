@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Depth exam practice talk by Marzieh Razavi"
+---
+
+h2. Lab Meeting
+
+* Title: Ensembles of Diverse Clustering-based Discriminative Dependency Parsers
+* Speaker: Marzieh Razavi
+* Time: 11am
+* Place: TASC1 9408
+
