@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Depth exam practice talk by Marzieh Razavi"
+title: "Masters thesis defense practice talk by Marzieh Razavi"
 ---
 
 h2. Lab Meeting
