@@ -3,8 +3,14 @@ New SFU natlang site with Jekyll and Bootstrap.
 Dependencies
 ============
 
-I've been using ruby 1.9.3p194, and building has been observed to fail with a ruby 1.8 version. Needs
-- jekyll
+Tested with ruby 1.9.3p194, and building has been observed to fail with a ruby 1.8 version. Needs:
+
+- RedCloth
 - bibtex-ruby
 - citeproc-ruby
-all of which can be installed from ruby gems. They are already installed for the natlang ruby module, so there is no need for any setup besides loading the one module.
+- jekyll
+
+All of the above can be installed from ruby gems. 
+
+They are already installed for the natlang ruby module, so there is no need for any setup besides loading the one module.
+
