@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Ann Clifton and Majid Razmara present about work done during JHU Summer Workshop 2012"
+---
+
+h2. Lab Meeting
+* Time: 11am
+* Place: TASC1 9408
+
+h3. Ann Clifton. Latent topics for domain adapted MT
+
+bq. Previous work has shown that document-level information such as provenance or topics can be helpful for SMT. We are interested in the case of domain adaptation where there is little parallel data in the new domain. We consider various topic-conditioning lexical weighting models for this task, using both document- and token-level topic distributions, which can be used to take advantage either parallel or monolingual new-domain data.
+
+h3. Majid Razmara. TBD
+
+bq. abstract goes here.
+
