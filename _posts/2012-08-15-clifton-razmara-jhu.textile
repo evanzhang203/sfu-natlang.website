@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ann Clifton and Majid Razmara present about work done during JHU Summer Workshop 2012"
+title: "Ann Clifton and Majid Razmara re: JHU workshop 2012"
 ---
 
 h2. Lab Meeting
