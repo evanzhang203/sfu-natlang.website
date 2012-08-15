@@ -7,6 +7,12 @@ h2. Lab Meeting
 * Time: 11am
 * Place: TASC1 9408
 
+This week we will have Ann Clifton and Majid Razmara talk about their Johns Hopkins University (JHU) CLSP summer workshop experience along with the presentation they gave at the final wrap-up of the workshop.
+
+You can learn more about the "JHU summer workshop series.":http://www.clsp.jhu.edu/workshops/current/
+
+Ann and Majid were in the team exploring "domain adaptation for machine translation.":http://www.clsp.jhu.edu/workshops/archive/ws-12/groups/dasmt/
+
 h3. Ann Clifton. Latent topics for domain adapted machine translation
 
 bq. Previous work has shown that document-level information such as provenance or topics can be helpful for SMT. We are interested in the case of domain adaptation where there is little parallel data in the new domain. We consider various topic-conditioning lexical weighting models for this task, using both document- and token-level topic distributions, which can be used to take advantage either parallel or monolingual new-domain data.
