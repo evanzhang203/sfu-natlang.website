@@ -16,3 +16,5 @@ notextile.. <div>
 }
 {% endreferencelist %}
 </div>
+
+p. This work expands on the "ACL 2012 paper":{{ site.baseurl }}publications/whitneysarkar2012 of the same name.
