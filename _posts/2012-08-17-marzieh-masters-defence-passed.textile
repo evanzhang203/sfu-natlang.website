@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Masters thesis defence: Marzieh Razavi"
+title: "Marzieh Razavi passed Masters thesis defence "
 ---
 
-Marzieh Razavi will defend her MSc thesis on Thursday August 16 2012.
-* Time: 10:30 a.m.
-* Place: TASC1 9408
+Marzieh Razavi successfully defended her MSc thesis "on Thursday August 16 2012":{{ site.baseurl }}/posts/2012-08-16-marzieh-masters-defence. Slides from the defence "are available":{{ site.baseurl }}images/marzieh-masters-defence-2012.pdf.
+
+!{width: 400px}{{ site.baseurl }}images/marzieh-masters-defence-2012.jpg(Marzieh Razavi defends her Masters thesis)!:{{ site.baseurl }}images/marzieh-masters-defence-2012.jpg
 
 notextile.. <div>
 {% referencelist %}
