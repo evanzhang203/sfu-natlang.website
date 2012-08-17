@@ -3,7 +3,9 @@ layout: post
 title: "Maryam Siahbani passed PhD depth examination"
 ---
 
-Maryam Siahbani successfully passed PhD depth examination "on Friday, August 17 2012":{{ site.baseurl }}posts/2012-08-16-maryam-phd-depth-exam.
+Maryam Siahbani successfully passed PhD depth examination "on Friday, August 17 2012":{{ site.baseurl }}posts/2012-08-16-maryam-phd-depth-exam. Slides from the examination "are available":{{ site.baseurl }}images/maryam-phd-depth-exam-2012.pdf.
+
+!{width: 400px}{{ site.baseurl }}images/maryam-phd-depth-exam-2012.jpg(Marzieh Razavi defends her Masters thesis)!:{{ site.baseurl }}images/maryam-phd-depth-exam-2012.jpg
 
 notextile.. <div>
 {% referencelist %}
