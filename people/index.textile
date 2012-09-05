@@ -21,8 +21,7 @@ h2. Ph.D. Students
 
 h2. Masters Students
 
-* "Marzieh Razavi":http://www.cs.sfu.ca/~mrazavi/personal
-* "Max Whitney":http://www.cs.sfu.ca/~mwhitney/personal
+* "Rohit Dholakia":http://rohitdholakia.com
 * "Ravikiran Vadlapudi":http://www.cs.sfu.ca/~rvadlapu/personal
 * David Lindberg
 
@@ -58,6 +57,8 @@ h2. Ph.D. Students
 
 h2. Masters Students
 
+* "Marzieh Razavi":http://www.cs.sfu.ca/~mrazavi/personal -- NSERC Engage project
+* "Max Whitney":http://www.cs.sfu.ca/~mwhitney/personal -- NSERC Engage project
 * Julia Birke -- SAP Business Objects
 * "Ann Clifton":http://www.cs.sfu.ca/~aca69/personal -- back for Ph.D.
 * Nicolas Demers
