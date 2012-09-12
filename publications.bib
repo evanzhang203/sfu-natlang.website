@@ -1,4 +1,13 @@
-@InProceedings{Razmara:2012:ACL,
+@inproceedings{sankaran_etal:2012:AMTA,
+  author = {Sankaran, Baskaran and Haffari, Gholamreza and Sarkar, Anoop},
+  title = {Compact Rule Extraction for Hierarchical Phrase-based Translation},
+  booktitle = {Accepted for publication in The 10th biennial conference of the Association for Machine Translation in the Americas (AMTA)},
+  month = {oct},
+  year = {2012},
+  address = {San Diego, CA},
+  publisher = {Association for Computational Linguistics},
+}
+@inproceedings{Razmara:2012:ACL,
   author    = {Majid Razmara and George Foster and Baskaran Sankaran and Anoop Sarkar},
   title     = {Mixing Multiple Translation Models in Statistical Machine Translation},
   booktitle = {Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics},
@@ -6,7 +15,8 @@
   year      = {2012},
   address   = {Jeju, Republic of Korea},
   publisher = {Association for Computational Linguistics},
-  abstract  = {Statistical machine translation is often faced with the problem of combining training data from many diverse sources into a single translation model which then has to translate sentences in a new domain. We propose a novel approach, ensemble decoding, which combines a number of translation systems dynamically at the decoding step. In this paper, we evaluate performance on a domain adaptation setting where we translate sentences from the medical domain. Our experimental results show that ensemble decoding outperforms various strong baselines including mixture models, the current state-of-the-art for domain adaptation in machine}
+  url = {http://www.aclweb.org/anthology/P12-1099},
+  abstract  = {Statistical machine translation is often faced with the problem of combining training data from many diverse sources into a single translation model which then has to translate sentences in a new domain. We propose a novel approach, ensemble decoding, which combines a number of translation systems dynamically at the decoding step. In this paper, we evaluate performance on a domain adaptation setting where we translate sentences from the medical domain. Our experimental results show that ensemble decoding outperforms various strong baselines including mixture models, the current state-of-the-art for domain adaptation in machine translation.}
 }
 @inproceedings{whitney-sarkar:2012,
   author = {Whitney, Max and Sarkar, Anoop},
@@ -22,13 +32,15 @@
 }
 @inproceedings{majid_etal:2012:WMT,
   author = {Razmara, Majid and Sankaran, Baskaran and Clifton, Ann and Sarkar, Anoop},
-  title = {\textit{Kriya} - The SFU System for Translation Task at WMT-12},
+  title = {Kriya - The SFU System for Translation Task at WMT-12},
   booktitle = {Proceedings of the Seventh Workshop on Statistical Machine Translation (WMT)},
   month = {jun},
   year = {2012},
-  address = {Montr\'{e}al, Canada},
+  address = {Montréal, Canada},
   publisher = {Association for Computational Linguistics},
-  url = {http://www2.cs.sfu.ca/~bsa33/personal/publications/majid_etal_12b}
+  url = {http://www.aclweb.org/anthology/W12-3145},
+  pdf = {http://www2.cs.sfu.ca/~bsa33/personal/publications/majid_etal_12b.pdf},
+  abstract = {This paper describes our submissions for the WMT-12 translation task using Kriya - our hierarchical phrase-based system. We submitted systems in French-English and English-Czech language pairs. In addition to the baseline system following the standard MT pipeline, we tried ensemble decoding for French-English. The ensemble decoding method improved the BLEU score by 0.4 points over the baseline in newstest-2011. For English-Czech, we segmented the Czech side of the corpora and trained two different segmented models in addition to our baseline system.}
 }
 @article{sankaran_etal:2012:PBML,
   author = {Sankaran, Baskaran and Razmara, Majid and Sarkar, Anoop},
@@ -40,18 +52,22 @@
   address = {Prague, Czech Republic},
   publisher = {Charles University},
   pages = {83--98},
-  url = {http://ufal.mff.cuni.cz/pbml/97/art-sankaran-razmara-sarkar}
+  url = {http://ufal.mff.cuni.cz/pbml/97/art-sankaran-razmara-sarkar.pdf},
+  pdf = {http://www.cs.sfu.ca/~bsa33/personal/publications/sankaran_pbml12.pdf},
+  abstract = {This paper describes Kriya --- a new statistical machine translation (SMT) system that uses hierarchical phrases, which were first introduced in the Hiero machine translation system (Chiang 2007). Kriya supports both a grammar extraction module for synchronous context-free grammars (SCFGs) and a CKY-based decoder. There are several re-implementations of Hiero in the machine translation community, but Kriya offers the following novel contributions: (a) Grammar extraction in Kriya supports extraction of the full set of Hiero-style SCFG rules but also supports the extraction of several types of compact rule sets which leads to faster decoding for different language pairs without compromising the BLEU scores. Kriya currently supports extraction of compact SCFGs such as grammars with one non-terminal and grammar pruning based on certain rule patterns, and (b) The Kriya decoder offers some unique improvements in the implementation of cube pruning, such as increasing diversity in the target language n-best output and novel methods for language model (LM) integration. The Kriya decoder can take advantage of parallelization using a networked cluster.  Kriya supports KENLM and SRILM for language model queries and exploits n-gram history states in KENLM. This paper also provides several experimental results which demonstrate that the translation quality of Kriya compares favourably to the Moses (Koehn 2007) phrase-based system in several language pairs while showing a substantial improvement for Chinese-English similar to (Chiang 2007). We also quantify the model sizes for phrase-based and Hiero-style systems apart from presenting experiments comparing variants of Hiero models.}
 }
 @inproceedings{sankaran_anoop:2012:NAACL,
   author = {Sankaran, Baskaran and Sarkar, Anoop},
-  title = {Improved Reordering for Shallow-\textit{n} Grammar based Hierarchical Phrase-based Translation},
+  title = {Improved Reordering for Shallow-n Grammar based Hierarchical Phrase-based Translation},
   booktitle = {Proceedings of the North-American Chapter of Association of Computational Linguistics (NAACL)},
   month = {jun},
   year = {2012},
-  address = {Montr\'{e}al, Canada},
+  address = {Montréal, Canada},
   publisher = {Association for Computational Linguistics},
   pages = {533--537},
-  url = {http://www2.cs.sfu.ca/~bsa33/personal/publications/sankaran_anoop_12b}
+  pdf = {http://www2.cs.sfu.ca/~bsa33/personal/publications/sankaran_anoop_12b.pdf},
+  url = {http://aclweb.org/anthology-new/N/N12/N12-1060.pdf},
+  abstract = {Shallow-n grammars (deGispert 2010) were introduced to reduce over-generation in the Hiero translation model (Chiang 2005) resulting in much faster decoding and restricting reordering to a desired level for specific language pairs. However, Shallow-n grammars require parameters which cannot be directly optimized using minimum error-rate tuning by the decoder. This paper introduces some novel improvements to the translation model for Shallow-n grammars. We introduce two rules: a BITG-style reordering glue rule and a simpler monotonic concatenation rule. We use separate features for the new rules in our log-linear model allowing the decoder to directly optimize the feature weights. We show this formulation of Shallow-n hierarchical phrase-based translation is comparable in translation quality to full Hiero-style decoding (without shallow rules) while at the same time being considerably faster.}
 }
 @inproceedings{sankaran_etal:2012:CanAI,
   author = {Sankaran, Baskaran and Razmara, Majid and Farzindar, Atefeh and Khreich, Wael and Popowich, Fred and Sarkar, Anoop},
@@ -60,7 +76,8 @@
   month = {may},
   year = {2012},
   address = {Toronto, Canada},
-  url = {http://www.cs.sfu.ca/~anoop/papers/pdf/ai2012}
+  pdf = {http://www.cs.sfu.ca/~anoop/papers/pdf/ai2012.pdf},
+  abstract = {Statistical Machine Translation (SMT) is currently used in real-time and commercial settings to quickly produce initial translations for a document which can later be edited by a human. The SMT models specialized for one domain often perform poorly when applied to other domains. The typical assumption that both training and testing data are drawn from the same distribution no longer applies. This paper evaluates domain adaptation techniques for SMT systems in the context of end-user feedback in a real world application. We present our experiments using two adaptive techniques, one relying on log-linear models and the other using mixture models. We describe our experimental results on legal and government data, and present the human evaluation effort for post-editing in addition to traditional automated scoring techniques (BLEU scores). The human effort is based primarily on the amount of time and number of edits required by a professional post-editor to improve the quality of machine-generated translations to meet industry standards. The experimental results in this paper show that the domain adaptation techniques can yield a significant increase in BLEU score (up to four points) and a significant reduction in post-editing time of about one second per word.}
 }
 @inproceedings{sankaran_etal:2011:WMT,
   author = {Sankaran, Baskaran and Haffari, Gholamreza and Sarkar, Anoop},
@@ -71,7 +88,8 @@
   address = {Edinburgh, Scotland},
   publisher = {Association for Computational Linguistics},
   pages = {533--541},
-  url = {http://www2.cs.sfu.ca/~bsa33/personal/publications/sankaran_etal_11}
+  pdf = {http://www2.cs.sfu.ca/~bsa33/personal/publications/sankaran_etal_11.pdf},
+  abstract = {We present a novel approach for extracting a minimal synchronous context-free grammar (SCFG) for Hiero-style statistical machine translation using a non-parametric Bayesian framework. Our approach is designed to extract rules that are licensed by the word alignments and heuristically extracted phrase pairs. Our Bayesian model limits the number of SCFG rules extracted, by sampling from the space of all possible hierarchical rules; additionally our informed prior based on the lexical alignment probabilities biases the grammar to extract high quality rules leading to improved generalization and the automatic identification of commonly re-used rules. We show that our Bayesian model is able to extract minimal set of hierarchical phrase rules without impacting the translation quality as measured by the BLEU score.}
 }
 @inproceedings{haffari-razavi-sarkar:2011:ACL-HLT2011,
   author = {Haffari, Gholamreza and Razavi, Marzieh and Sarkar, Anoop},
@@ -106,6 +124,7 @@
   pages = {216--223},
   numpages = {8},
   url = {http://aclweb.org/anthology-new/W/W10/W10-1733},
+  abstract = {In this paper we focus on the incremental decoding for a statistical phrase-based machine translation system. In incremental decoding, translations are generated incrementally for every word typed by a user, instead of waiting for the entire sentence as input. We introduce a novel modification to the beam-search decoding algorithm for phrase-based MT to address this issue, aimed at efficient computation of future costs and avoiding search errors. Our objective is to do a faster translation during incremental decoding without significant reduction in the translation quality.},
   publisher = {Association for Computational Linguistics},
   address = {Stroudsburg, PA, USA}
 }
