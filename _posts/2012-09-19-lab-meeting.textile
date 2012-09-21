@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Thesis proposal talk  of Majid and Baskaran 
+title: Two thesis proposal practice talks
 ---
 
-Majid will give a talk on his thesis proposal,titled,"Combining Diverse Sources In Statistical  Machine Translation" . 
+Majid Razmara will give a talk on his thesis proposal titled "Combining Diverse Sources In Statistical Machine Translation". 
 
-notextile.. <div>
+<div>
 {% referencelist %}
 @thesis{MajidPhDThesis,
 	author = {Majid Razmara},
@@ -17,8 +17,8 @@ notextile.. <div>
 {% endreferencelist %}
 </div>
 
-Baskaran will give a talk on his thesis proposal,titled,"Improvements in Hierarchical Phrase-based Machine Translation".
-notextile.. <div>
+Baskaran Sankaran will give a talk on his thesis proposal titled "Improvements in Hierarchical Phrase-based Machine Translation".
+<div>
 {% referencelist %}
 @thesis{BaskaranPhDThesis,
 	author = {Baskaran Sankaran},
