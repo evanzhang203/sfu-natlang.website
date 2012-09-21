@@ -3,7 +3,7 @@ layout: post
 title: Baskaran Sankaran thesis Proposal
 ---
 
-Baskaran will present his thesis proposal on 21st September,2012. 
+Baskaran will present his thesis proposal on 21st September,2012 at 11:00 AM.
 
 <div>
 {% referencelist %}

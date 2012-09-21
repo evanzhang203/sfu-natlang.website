@@ -3,7 +3,7 @@ layout: post
 title: Majid Razmara thesis proposal 
 ---
 
-Majid  will give his thesis proposal as well  on  21st September , 2012. 
+Majid  will give his thesis proposal as well  on  21st September , 2012 at 01:30 PM. 
 <div>
 {% referencelist %}
 @thesis{MajidPhDThesis,
