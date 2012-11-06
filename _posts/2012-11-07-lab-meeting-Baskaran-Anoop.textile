@@ -9,9 +9,7 @@ the AMTA 2012 program:
 <a href=" http://amta2012.amtaweb.org/AMTA2012Files/start.htm">AMTA</a>
 
 Anoop Sarkar will do a debrief of JoshiFest, which was a workshop in a
-festschrift style 
-<a href =" http://en.wikipedia.org/wiki/Festschrift">Festchrift</a>. It was
-organized at UPenn on the occasion of Dr. Joshi's retirement on Oct
+festschrift style .It was organized at UPenn on the occasion of Dr. Joshi's retirement on Oct
 22nd, 2012.
 
 Videos of the talks available here:
