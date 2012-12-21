@@ -99,6 +99,16 @@
   pdf = {http://www.cs.sfu.ca/~anoop/papers/pdf/ai2012.pdf},
   abstract = {Statistical Machine Translation (SMT) is currently used in real-time and commercial settings to quickly produce initial translations for a document which can later be edited by a human. The SMT models specialized for one domain often perform poorly when applied to other domains. The typical assumption that both training and testing data are drawn from the same distribution no longer applies. This paper evaluates domain adaptation techniques for SMT systems in the context of end-user feedback in a real world application. We present our experiments using two adaptive techniques, one relying on log-linear models and the other using mixture models. We describe our experimental results on legal and government data, and present the human evaluation effort for post-editing in addition to traditional automated scoring techniques (BLEU scores). The human effort is based primarily on the amount of time and number of edits required by a professional post-editor to improve the quality of machine-generated translations to meet industry standards. The experimental results in this paper show that the domain adaptation techniques can yield a significant increase in BLEU score (up to four points) and a significant reduction in post-editing time of about one second per word.}
 }
+@inproceedings{whitney-clifton-sarkar-fedorova:2012:NW-NLP,
+	author={Max Whitney and Ann Clifton and Anoop Sarkar and Alexandra Fedorova},
+	title={Making the most of a distributed perceptron for NLP},
+	year=2012,
+	month=may,
+	publisher={Pacific Northwest Regional NLP Workshop},
+	address={Redmond, Washington, USA},
+	pdf={http://dada.cs.washington.edu/nw-nlp-2012/papers/perceptron-nwnlp.pdf},
+	abstract={Perceptron training is commonly used for various natural language processing tasks, making it desirable to apply on very large datasets. We implemented a distributed perceptron training algorithm in a MapReduce framework for a structured output chunking task and evaluated it on a cluster and on multi-core systems. Our work extends (McDonald et al. 2002) into two areas of analysis. We compare two methods for implementing the algorithm and find that the choice of topology in the MapReduce operations significantly affects runtime, with the unexpected result that duplicating computation increases overall performance. We also examine the behaviour with different numbers of data shards and find a tradeoff between runtime and accuracy.}
+}
 @inproceedings{sankaran_etal:2011:WMT,
   author = {Sankaran, Baskaran and Haffari, Gholamreza and Sarkar, Anoop},
   title = {Bayesian Extraction of Minimal SCFG Rules for Hierarchical Phrase-based Translation},
