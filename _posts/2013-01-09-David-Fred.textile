@@ -1,0 +1,6 @@
+---
+layout: post
+title: Generating Natural Language Questions from Documents 
+---
+
+In the lab meeting on Wednesday, 9th January, 2013 ,David Lindberg and Fred Popowich will present ongoing work on automatically generating natural language questions from documents. We'll discuss the goals and scope of this work, describe the initial version of our system and its output, and discuss future plans. This work is being done in collaboration with Phil Winne and John Nesbit from the Faculty of Education.
