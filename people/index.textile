@@ -17,7 +17,7 @@ h2. Ph.D. Students
 * "Majid Razmara":http://www.cs.sfu.ca/~mra44/personal
 * "Baskaran Sankaran":http://www.cs.sfu.ca/~bsa33/personal
 * "Milan Tofiloski":http://www.cs.sfu.ca/~mta45/personal
-* "Maryam Siahbani":http://www.cs.sfu.ca/~msiabhan/personal
+* "Maryam Siahbani":http://www.cs.sfu.ca/~msiahban/personal
 
 h2. Masters Students
 
