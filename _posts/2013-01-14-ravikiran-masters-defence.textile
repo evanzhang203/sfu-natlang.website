@@ -17,4 +17,4 @@ notextile.. <div>
 {% endreferencelist %}
 </div>
 
-The interactive browser for Wikipedia human history articles can be seen live at "lensingwikipedia.cs.sfu.ca":lensingwikipedia.cs.sfu.ca.
+The interactive browser for Wikipedia human history articles can be seen live at "lensingwikipedia.cs.sfu.ca":http://lensingwikipedia.cs.sfu.ca.
