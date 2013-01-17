@@ -11,6 +11,7 @@ The examining committee was:
 * Dr. John Dill, Examiner
 * Dr. Oliver Schulte, Chair
 
+Thesis information:
 notextile.. <div>
 {% referencelist %}
 @thesis{ravikiranvadlapudimastersthesis,
