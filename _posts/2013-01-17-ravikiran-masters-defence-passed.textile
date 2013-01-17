@@ -12,6 +12,7 @@ The examining committee was:
 * Dr. Oliver Schulte, Chair
 
 Thesis information:
+
 notextile.. <div>
 {% referencelist %}
 @thesis{ravikiranvadlapudimastersthesis,
