@@ -3,7 +3,7 @@ layout: post
 title: "Ravikiran Vadlapudi passed Masters thesis defence "
 ---
 
-Ravikiran Vadlapudi successfully defended his MSc thesis "on Wednesday January 16 2013":{{ site.baseurl }}posts/2013-01-16-ravikiran-masters-defence. Slides from the defence "are available":{{ site.baseurl }}images/ravikiran-masters-defence-2012.pdf.
+Ravikiran Vadlapudi successfully defended his MSc thesis "on Wednesday January 16 2013":{{ site.baseurl }}posts/2013-01-14-ravikiran-masters-defence. Slides from the defence "are available":{{ site.baseurl }}images/ravikiran-masters-defence-2012.pdf.
 
 The examining committee was:
 * Dr. Anoop Sarkar, Senior Supervisor
