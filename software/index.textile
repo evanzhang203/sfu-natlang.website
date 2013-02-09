@@ -4,11 +4,22 @@ title: Software
 pageclass: software
 ---
 
+h1(#kriya). Kriya - Open-Source Statistical Machine Translation System
+
+!{{ site.baseurl }}images/kriya.png(Kriya in Devanagiri.)!
+
+* "Github repository":https://github.com/sfu-natlang/Kriya
+
+Kriya is an implementation of hierarchical phrase-based (hiero) SMT system.  Kriya is entirely implemented in Python and includes both grammar extractor and decoder modules.  If you use this for your research consider citing: 
+
+bq. Baskaran Sankaran, Majid Razmara and Anoop Sarkar. 2012. Kriya – An end-to-end Hierarchical Phrase-based MT System. The Prague Bulletin of Mathematical Linguistics (PBML), (97), 83--98
+
+
 h1(#yarowsky). Yarowsky algorithm
 
 !{{ site.baseurl }}images/whitney-sarkar-2012-ypropplot.png(Plot comparing our Yarowsky-prop algorithm with Yarowsky-cautious.)! !{{ site.baseurl }}images/whitney-sarkar-2012-twographs.png(Two graph representations used in our paper.)!
 
-* "Github":https://github.com/sfu-natlang/yarowsky
+* "Github repository":https://github.com/sfu-natlang/yarowsky
 
 An implementation of the Yarowsky algorithm and other bootstrapping algorithms. This software accompanies the paper "Bootstrapping via Graph Propagation":{{ site.baseurl }}/publications/whitneysarkar2012 by Max Whitney and Anoop Sarkar, which appears in the Proceedings of ACL 2012. There are also "slides":http://www2.cs.sfu.ca/~mwhitney/personal/yarowsky-propagation-slides.pdf from the ACL presentation.
 
