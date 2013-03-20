@@ -1,6 +1,6 @@
 ---
 layout : post
-title : Computational Aesthetics: The Evaluation of Creativity in Text
+title : "Computational Aesthetics: The Evaluation of Creativity in Text"
 ---
 
 Milan Tofiloski will give a talk on Wednesday, 20 March at TASC1 9408. It will start at 11am.  The description about his talk is attached below: 
