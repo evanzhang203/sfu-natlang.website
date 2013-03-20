@@ -10,4 +10,4 @@ _Discerning creative text, such as popular quotations, literature, poetry, etc.,
 __Reference:__
 
 
-M. Bendersky and D. A. Smith, "_A Dictionary of Wisdom and Wit: Learning to Extract Quotable Phrases_," NAACL-HLT 2012
+M. Bendersky and D. A. Smith, "A Dictionary of Wisdom and Wit: Learning to Extract Quotable Phrases," NAACL-HLT 2012
