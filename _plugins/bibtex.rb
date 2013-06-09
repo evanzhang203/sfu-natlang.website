@@ -292,7 +292,7 @@ module Jekyll
           @nodelist << token
         end
       end
-      assert_missing_delimiation!
+      assert_missing_delimitation!
     end
 
     # Output html.
