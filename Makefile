@@ -4,7 +4,7 @@ LOCALDIR=$(PWD)/_local
 
 # Build locally.
 all:
-	jekyll build --base-url="$(BASEURL)"
+	jekyll --base-url="$(BASEURL)"
 
 # Install to the live site.
 install: all
@@ -15,9 +15,7 @@ install: all
 
 # Build locally with the base-url set for testing. Don't copy to the live site from here.
 local:
-	echo "baseurl: file://$(LOCALDIR)/" > _localconfig.yml
-	cat _config.yml >> _localconfig.yml
-	jekyll build --config _localconfig.yml -d $(LOCALDIR) 
+	jekyll --base-url="file://$(LOCALDIR)/" "$(LOCALDIR)"
 
 clean:
 	rm -rf _site
