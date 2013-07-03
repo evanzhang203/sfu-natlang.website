@@ -11,19 +11,28 @@ h2. Faculty
 * "Fred Popowich":http://www.cs.sfu.ca/~popowich
 * "Anoop Sarkar":http://www.cs.sfu.ca/~anoop
 
+h2. Postdoctoral Fellows
+
+* "Mark Schmidt":http://www.di.ens.fr/~mschmidt/ (July 2013)
+
 h2. Ph.D. Students
 
 * "Ann Clifton":http://www.cs.sfu.ca/~aca69/personal
 * "Majid Razmara":http://www.cs.sfu.ca/~mra44/personal
 * "Baskaran Sankaran":http://www.cs.sfu.ca/~bsa33/personal
-* "Milan Tofiloski":http://www.cs.sfu.ca/~mta45/personal
 * "Maryam Siahbani":http://www.cs.sfu.ca/~msiahban/personal
+* "Milan Tofiloski":http://www.cs.sfu.ca/~mta45/personal
 
 h2. Masters Students
 
 * "Rohit Dholakia":http://rohitdholakia.com
-* "Ravikiran Vadlapudi":http://www.cs.sfu.ca/~rvadlapu/personal
+* Willem (Bruce) Krayenhoff
 * David Lindberg
+* Lydia Odilinye
+
+h2. Undergraduate Students
+
+* Yuhuan Jiang ("MITACS Globalink":http://www.mitacs.ca/main.php?mid=10000426&pid=347 July 2013)
 
 h1. Adjunct Members
 * Dan Fass
@@ -58,8 +67,9 @@ h2. Ph.D. Students
 
 h2. Masters Students
 
-* "Marzieh Razavi":http://www.cs.sfu.ca/~mrazavi/personal -- NSERC Engage project
-* "Max Whitney":http://www.cs.sfu.ca/~mwhitney/personal -- NSERC Engage project
+* "Ravikiran Vadlapudi":http://www.cs.sfu.ca/~rvadlapu/personal -- Nuance Communications, Montreal
+* "Marzieh Razavi":http://www.cs.sfu.ca/~mrazavi/personal -- Ph.D. student at EPFL
+* "Max Whitney":http://www.cs.sfu.ca/~mwhitney/personal -- Learning Chinese in Taiwan
 * Julia Birke -- SAP Business Objects
 * "Ann Clifton":http://www.cs.sfu.ca/~aca69/personal -- back for Ph.D.
 * Nicolas Demers
