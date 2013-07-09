@@ -10,6 +10,8 @@ The original paper is <a href="http://www.cs.cmu.edu/~nlao/publication/2010/2010
 There have been two papers on its application as well. 
 
 <a href="http://www.cs.cmu.edu/~nlao/publication/2011/2011.emnlp.paper.pdf">Random Walk Inference and Learning in A Large Scale Knowledge Base</a>
+
+
 <a href="http://www.cs.cmu.edu/~nlao/publication/2012/2012.emnlp.paper.pdf">Reading The Web with Learned Syntactic-Semantic Inference Rules</a>
 
 The lab meeting will start at 1230 hours at TASC1 9408. 
