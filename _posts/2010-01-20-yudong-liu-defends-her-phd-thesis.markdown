@@ -1,10 +1,7 @@
 ---
-date: '2010-01-20 03:22:28'
 layout: post
-slug: yudong-liu-defends-her-phd-thesis
-status: publish
 title: Yudong Liu defends her Ph.D. thesis
-wordpress_id: '1311'
+root: ../../
 ---
 
 [![Yudong defends her Ph.D. thesis]({{ site.baseurl }}/images/oldsite/dsc00366-300x225.jpg) "Yudong defends her Ph.D. thesis"]({{ site.baseurl }}/images/oldsite/dsc00366.jpg)

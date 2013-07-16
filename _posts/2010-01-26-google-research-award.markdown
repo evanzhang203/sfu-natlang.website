@@ -1,12 +1,7 @@
 ---
-date: '2010-01-26 02:57:12'
 layout: post
-slug: google-research-award
-status: publish
 title: Google Research Award
-wordpress_id: '1325'
-categories:
-- News
+root: ../../
 ---
 
 [![Analysis of statistical machine translation into Finnish]({{ site.baseurl }}images/oldsite/finnishanalysis-300x122.png "Analysis of statistical machine translation into Finnish")]({{ site.baseurl }}images/oldsite/finnishanalysis.png)

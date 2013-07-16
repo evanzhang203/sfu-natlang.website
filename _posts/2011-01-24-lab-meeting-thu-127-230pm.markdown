@@ -1,12 +1,7 @@
 ---
-date: '2011-01-24 16:02:01'
 layout: post
-slug: lab-meeting-thu-127-230pm
-status: publish
 title: 'Lab meeting: Thu 1/27 2:30pm'
-wordpress_id: '1419'
-categories:
-- Lab Meeting
+root: ../../
 ---
 
 This week's natlang lab meeting is on Thursday January 27, 2011 at 2:30pm, in TASC1 9408.

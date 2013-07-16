@@ -1,10 +1,7 @@
 ---
-date: '2012-03-24 15:59:59'
 layout: post
-slug: 2012-publications-so-far
-status: publish
 title: 2012 Publications (so far)
-wordpress_id: '1612'
+root: ../../
 ---
 
 Our lab has published the following papers in 2012 (so far). Links to camera ready versions to follow.

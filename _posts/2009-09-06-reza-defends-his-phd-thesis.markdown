@@ -1,12 +1,7 @@
 ---
-date: '2009-09-06 21:21:02'
 layout: post
-slug: reza-defends-his-phd-thesis
-status: publish
 title: Reza defends his Ph.D. Thesis
-wordpress_id: '1269'
-categories:
-- News
+root: ../../
 ---
 
 

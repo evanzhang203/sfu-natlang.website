@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Masters thesis defence: Ravikiran Vadlapudi"
+root: ../../
 ---
 
 Ravikiran Vadlapudi will defend his MSc thesis on Wednesday January 16, 2013.

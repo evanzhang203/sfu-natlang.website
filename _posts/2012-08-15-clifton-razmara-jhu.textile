@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ann Clifton and Majid Razmara re: JHU workshop 2012"
+root: ../../
 ---
 
 h2. Lab Meeting

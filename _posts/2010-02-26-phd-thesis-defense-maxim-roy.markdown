@@ -1,12 +1,7 @@
 ---
-date: '2010-02-26 23:10:31'
 layout: post
-slug: phd-thesis-defense-maxim-roy
-status: publish
 title: Ph.D. Thesis Defense- Maxim Roy
-wordpress_id: '1337'
-categories:
-- Events
+root: ../../
 ---
 
 Time\: **Tuesday March 2nd, 2010 12:30 p.m.**

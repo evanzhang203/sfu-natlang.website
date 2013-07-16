@@ -1,12 +1,7 @@
 ---
-date: '2009-11-20 09:46:32'
 layout: post
-slug: ajeets-msc-defence-practice-talk
-status: publish
 title: Ajeet's M.Sc. Defence Practice Talk
-wordpress_id: '1291'
-categories:
-- Events
+root: ../../
 ---
 
 Time\:  November 23rd at 12 noon, Monday

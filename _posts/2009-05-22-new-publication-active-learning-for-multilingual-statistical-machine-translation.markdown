@@ -1,12 +1,7 @@
 ---
-date: '2009-05-22 18:36:29'
 layout: post
-slug: new-publication-active-learning-for-multilingual-statistical-machine-translation
-status: publish
 title: 'New publication: Active Learning for Multilingual Statistical Machine Translation'
-wordpress_id: '1191'
-categories:
-- Publications
+root: ../../
 ---
 
 New publication:

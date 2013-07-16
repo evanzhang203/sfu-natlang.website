@@ -1,12 +1,7 @@
 ---
-date: '2010-07-08 16:05:17'
 layout: post
-slug: mobile-browsing-of-natlang-website
-status: publish
 title: Mobile browsing of natlang website
-wordpress_id: '1363'
-categories:
-- News
+root: ../../
 ---
 
 

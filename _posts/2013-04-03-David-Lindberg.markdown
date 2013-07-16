@@ -1,6 +1,7 @@
 ---
-layout : post
-title : Evaluating question generation output
+layout: post
+title: No title
+root: ../../
 ---
 
 David Lindberg will give a talk in the lab meeting on Wednesday, April 3 at TASC1 9408. A short description is below : 

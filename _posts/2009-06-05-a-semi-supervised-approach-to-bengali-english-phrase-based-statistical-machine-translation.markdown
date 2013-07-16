@@ -1,13 +1,7 @@
 ---
-date: '2009-06-05 15:33:04'
 layout: post
-slug: a-semi-supervised-approach-to-bengali-english-phrase-based-statistical-machine-translation
-status: publish
-title: A Semi-supervised Approach to Bengali-English Phrase-Based Statistical Machine
-  Translation
-wordpress_id: '1218'
-categories:
-- Publications
+title: Translation
+root: ../../
 ---
 
 New Publication:

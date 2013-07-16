@@ -1,12 +1,7 @@
 ---
-date: '2011-10-02 16:22:19'
 layout: post
-slug: lab-meeting-103-330pm
-status: publish
 title: 'Lab meeting: 10/3 3:30pm'
-wordpress_id: '1547'
-categories:
-- Lab Meeting
+root: ../../
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "It's about Time: Temporal Scoping of Relational Facts, Talk by Partha Pratim Talukdar (CMU)"
+root: ../../
 ---
 
 Partha Pratim Talukdar ( http://talukdar.net/ ) is a postdoctoral fellow in the Machine Learning department at CMU working with Tom Mitchell on various projects. He is going to talk about one component of Tom Mitchell's Never Ending Language Learning (NELL) project at CMU. ( http://rtw.ml.cmu.edu/rtw/ )

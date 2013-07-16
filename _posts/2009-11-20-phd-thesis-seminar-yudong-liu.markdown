@@ -1,12 +1,7 @@
 ---
-date: '2009-11-20 10:06:03'
 layout: post
-slug: phd-thesis-seminar-yudong-liu
-status: publish
 title: Ph.D. Thesis Seminar- Yudong Liu
-wordpress_id: '1299'
-categories:
-- Events
+root: ../../
 ---
 
 Time\: **Friday November 27th, 2009 1:30 p.m.**

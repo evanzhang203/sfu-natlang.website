@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Path Ranking Algorithm
+root: ../../
 ---
 
 In the next lab meeting on July 10, Maryam Siahbani is going to talk about "Path Ranking Algorithm" (PRA) and some application of this method. PRA uses random walks to generate relational features on graph data, and combine them with a logistic regression model. This approach has been used to solve efficiency issue of relational retrieval and relational learning in real-world applications with large-scale data (e.g. inference task in a large knowledge base).

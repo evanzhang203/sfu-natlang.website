@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Natural Language Laboratory at the SFU 2012 Open House
+root: ../../
 ---
 
 !{{ site.baseurl }}images/openhouse-2012.png(Natural Language Lab students at the open house)!

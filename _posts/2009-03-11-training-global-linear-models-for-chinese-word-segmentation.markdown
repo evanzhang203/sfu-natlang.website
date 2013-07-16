@@ -1,12 +1,7 @@
 ---
-date: '2009-03-11 20:10:57'
 layout: post
-slug: training-global-linear-models-for-chinese-word-segmentation
-status: publish
 title: 'New publication: Training Global Linear Models for Chinese Word Segmentation'
-wordpress_id: '1160'
-categories:
-- Publications
+root: ../../
 ---
 
 New publication:

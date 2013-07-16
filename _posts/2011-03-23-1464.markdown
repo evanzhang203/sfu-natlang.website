@@ -1,12 +1,7 @@
 ---
-date: '2011-03-23 09:38:45'
 layout: post
-slug: '1464'
-status: publish
 title: 'Computational linguistics talk: Alexandre Bouchard-Cote'
-wordpress_id: '1464'
-categories:
-- Events
+root: ../../
 ---
 
 **Time:** Thursday, April 7th, 2011 11:30 am

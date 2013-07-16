@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lab meeting: Wednesday June 13 11:00am"
+root: ../../
 ---
 
 The next lab meeting will be Wednesday June 13 2012, at 11:00am in TASC1 9408. Max Whitney will do another practice talk for his ACL presentation:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Towards multi-modal extraction and summarization of conversations by Raymond Ng"
+root: ../../
 ---
 
 !<{width: 150px}http://www.cs.ubc.ca/~rng/Raymond_Ng.JPG(Raymond Ng talks about summarization)!

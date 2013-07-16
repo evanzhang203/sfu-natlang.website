@@ -1,12 +1,7 @@
 ---
-date: '2011-02-19 15:07:58'
 layout: post
-slug: list-of-accepted-long-papers-at-acl-2011
-status: publish
 title: List of accepted long papers at ACL 2011
-wordpress_id: '1440'
-categories:
-- Publications
+root: ../../
 ---
 
 The list of accepted long papers (there is a separate short paper track with a later deadline) is now available:

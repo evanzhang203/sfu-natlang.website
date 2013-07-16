@@ -1,6 +1,7 @@
 ---
-layout : post
-title : Multi-Metric Optimization Using Ensemble Tuning
+layout: post
+title: No title
+root: ../../
 ---
 
 In the lab meeting on Wednesday, 29 May, Baskaran Sankaran will give a talk about his NAACL 2013 paper, titled, "Multi-Metric Optimization Using Ensemble Tuning". A brief description is below : 

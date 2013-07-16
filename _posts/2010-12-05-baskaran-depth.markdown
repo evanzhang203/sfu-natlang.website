@@ -1,12 +1,7 @@
 ---
-date: '2010-12-05 23:44:28'
 layout: post
-slug: baskaran-depth
-status: publish
 title: 'Depth Seminar: Baskaran Sankaran'
-wordpress_id: '1397'
-categories:
-- News
+root: ../../
 ---
 
 The depth examination of Baskaran Sankaran was held on 25 Nov 2010.

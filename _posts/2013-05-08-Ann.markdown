@@ -1,7 +1,8 @@
 ---
-layout : post
-title : Emergence of Gricean Maxims from Multi-Agent Decision Theory 
---- 
+layout: post
+title: No title
+root: ../../
+---
 
 In the lab meeting on Wednesday, May 8, Ann Clifton is going to discuss the paper <a href="http://nlp.stanford.edu/pubs/cards-naacl2013.pdf">Emergence of Gricean Maxims from Multi-Agent Decision Theory</a>. A short description is as follows: 
 

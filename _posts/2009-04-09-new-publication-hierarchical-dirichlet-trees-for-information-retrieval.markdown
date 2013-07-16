@@ -1,10 +1,7 @@
 ---
-date: '2009-04-09 11:19:40'
 layout: post
-slug: new-publication-hierarchical-dirichlet-trees-for-information-retrieval
-status: publish
 title: 'New publication: Hierarchical Dirichlet Trees for Information Retrieval'
-wordpress_id: '1186'
+root: ../../
 ---
 
 New publication:

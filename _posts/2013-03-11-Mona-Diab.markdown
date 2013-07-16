@@ -1,6 +1,7 @@
 ---
-layout : post
-title : Computational Modeling of Sociopragmatic Language Use in Arabic and English Social Media
+layout: post
+title: No title
+root: ../../
 ---
 
 Dr Mona Diab will be giving a talk at SFU Burnaby. The details are below.
