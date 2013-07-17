@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No title
+title: Anoop talks about Finite-state Transducers
 root: ../../
 ---
 

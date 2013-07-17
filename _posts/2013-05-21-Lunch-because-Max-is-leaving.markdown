@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No title
+title: Lab lunch because Max Whitney is leaving
 root: ../../
 ---
 

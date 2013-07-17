@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No title
+title: Anoop gives MapReduce demo
 root: ../../
 ---
 

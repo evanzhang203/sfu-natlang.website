@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No title
+title: Ann talks about a NAACL paper on Emergence of Gricean Maxims
 root: ../../
 ---
 

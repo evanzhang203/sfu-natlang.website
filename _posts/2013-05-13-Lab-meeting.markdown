@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No title
+title: Lab meetings during the Summer 2013 semester
 root: ../../
 ---
 

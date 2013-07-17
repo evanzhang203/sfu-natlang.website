@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No title
+title: Discussion of Hope and Fear for Discriminative Training of SMT models
 root: ../../
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No title
+title: Majid talks about the mSDA paper
 root: ../../
 ---
 

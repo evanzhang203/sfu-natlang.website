@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No title
+title: Bruce talks about Similarity Estimation from Rounding Algorithms
 root: ../../
 ---
 

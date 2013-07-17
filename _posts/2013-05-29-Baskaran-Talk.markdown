@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No title
+title: Baskaran NAACL 2013 practice talk
 root: ../../
 ---
 
