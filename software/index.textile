@@ -4,32 +4,11 @@ title: Software
 pageclass: software
 ---
 
-h1(#kriya). Kriya - Open-Source Statistical Machine Translation System
+h1(#kriya). "Kriya":kriya.html - Open-Source Statistical Machine Translation System
 
-!{{ site.baseurl }}images/kriya.png(Kriya in Devanagiri.)!
+h1(#yarowsky). "Bootstrapping with the Yarowsky algorithm":yarowsky.html
 
-* "Github repository":https://github.com/sfu-natlang/Kriya
+h1(#lensingwikipedia). "Lensing Wikipedia":lensingwikipedia.html
 
-Kriya is an implementation of hierarchical phrase-based (hiero) SMT system.  Kriya is entirely implemented in Python and includes both grammar extractor and decoder modules.  If you use this for your research consider citing: 
-
-bq. Baskaran Sankaran, Majid Razmara and Anoop Sarkar. 2012. Kriya – An end-to-end Hierarchical Phrase-based MT System. The Prague Bulletin of Mathematical Linguistics (PBML), (97), 83--98
-
-
-h1(#yarowsky). Yarowsky algorithm
-
-!{{ site.baseurl }}images/whitney-sarkar-2012-ypropplot.png(Plot comparing our Yarowsky-prop algorithm with Yarowsky-cautious.)! !{{ site.baseurl }}images/whitney-sarkar-2012-twographs.png(Two graph representations used in our paper.)!
-
-* "Github repository":https://github.com/sfu-natlang/yarowsky
-
-An implementation of the Yarowsky algorithm and other bootstrapping algorithms. This software accompanies the paper "Bootstrapping via Graph Propagation":{{ site.baseurl }}/publications/whitneysarkar2012 by Max Whitney and Anoop Sarkar, which appears in the Proceedings of ACL 2012. There are also "slides":http://www2.cs.sfu.ca/~mwhitney/personal/yarowsky-propagation-slides.pdf from the ACL presentation.
-
-h1(#lensingwikipedia). Lensing Wikipedia
-
-!{{ site.baseurl }}images/lensingscreen.png(A visual interface to Wikipedia.)!
-
-* "Website":http://lensingwikipedia.cs.sfu.ca
-
-Lensing:Wikipedia is an interface to visually browse through human history as represented in Wikipedia. Wikipedia contains several summary pages of human history, for example 409 BC is a page summarizing important events in 409 B.C. We collected about 2000 such URLs as the raw data for our visualization. We took the English descriptions and performed Semantic Role Labelling on these sentences in order to extract the predicates (verbs) in the sentence and the arguments for each predicate which is then shown in three different linked views: a geographical view, a temporal view and a view of the relationship between the predicates and various entities in the text.
-
-This web site was developed by Ravikiran Vadlapudi and Anoop Sarkar.
+h1(#metaphor). "TroFi Metaphor dataset":trofi.html
 
