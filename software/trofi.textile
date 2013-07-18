@@ -47,56 +47,17 @@ h3. Contents:
 
 The TroFi Example Base contains literal/nonliteral clusters for the following words:
 
-* absorb
-* assault
-* attack
-* besiege
-* cool
-* dance
-* destroy
-* die
-* dissolve
-* drag
-* drink
-* drown
-* eat
-* escape
-* evaporate
-* examine
-* fill
-* fix
-* flood
-* flourish
-* flow
-* fly
-* grab
-* grasp
-* kick
-* kill
-* knock
-* lend
-* melt
-* miss
-* pass
-* plant
-* play
-* plow
-* pour
-* pump
-* rain
-* rest
-* ride
-* roll
-* sleep
-* smooth
-* step
-* stick
-* strike
-* stumble
-* target
-* touch
-* vaporize
-* wither
+table(table).
+| absorb     | drink       | flow     | pass     | sleep    |
+| assault    | drown       | fly      | plant    | smooth   |
+| attack     | eat         | grab     | play     | step     |
+| besiege    | escape      | grasp    | plow     | stick    |
+| cool       | evaporate   | kick     | pour     | strike   |
+| dance      | examine     | kill     | pump     | stumble  |
+| destroy    | fill        | knock    | rain     | target   |
+| die        | fix         | lend     | rest     | touch    |
+| dissolve   | flood       | melt     | ride     | vaporize |
+| drag       | flourish    | miss     | roll     | wither   |
 
 Average accuracy is estimated at approximately 64%.
 
