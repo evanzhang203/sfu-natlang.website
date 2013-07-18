@@ -13,7 +13,7 @@ Title:          TroFi Example Base
 Version:        1.0
 Entered-date:   11 July 2005
 Description:    A database of literal/nonliteral sentence clusters for 50 words
-Keywords:       CLUSTERING NONLITERAL METAPHOR NLP
+Keywords:       clustering nonliteral metaphor nlp
 Author:         Julia Birke <jbirke@alumni.sfu.ca>
 Maintained-by:  Anoop Sarkar <anoop@sfu.ca>
 Home-page:      http://natlang.cs.sfu.ca/
