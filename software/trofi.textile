@@ -38,11 +38,7 @@ Before installing please read the contents of the "LICENSE":http://www.cs.sfu.ca
 
 h3. General Description:
 
-The TroFi Example Base consists of literal and nonliteral usage clusters for 50 English verbs.  
-The clusters contain sentences using these words drawn from The 1987-89 Wall Street Journal (WSJ) Corpus Release 1.  
-The clusters were automatically generated using TroFi, a system for the unsupervised recognition 
-of nonliteral language.  For detailed information on the TroFi Example Base and the system used to produce it, 
-please see:
+The TroFi Example Base consists of literal and nonliteral usage clusters for 50 English verbs.  The clusters contain sentences using these words drawn from The 1987-89 Wall Street Journal (WSJ) Corpus Release 1.  The clusters were automatically generated using TroFi, a system for the unsupervised recognition of nonliteral language.  For detailed information on the TroFi Example Base and the system used to produce it, please see:
 
 * Birke, J. 2005.  "A clustering approach for the unsupervised recognition of nonliteral language":http://www.cs.sfu.ca/~anoop/students/jbirke/jbirke_thesis.pdf Masters Thesis. School of Computing Science.  Simon Fraser University.
 * "EACL 2006 Presentation Slides":http://www.cs.sfu.ca/~anoop/students/jbirke/Presentation_EACL06.ppt
@@ -107,22 +103,13 @@ Average accuracy is estimated at approximately 64%.
 
 h3. Structure:
 
-The TroFi Example Base is organized by the target words listed above.  Under each target word, first the nonliteral 
-cluster, then the literal cluster, is given.  The order of the examples is dependent on the TroFi run in which they 
-were clustered.  The examples from the original run are given first, in numerical order; the examples from the iterative 
-augmentation run are given next. (See ("Birke, 2005":http://www.cs.sfu.ca/~anoop/students/jbirke/jbirke_thesis.pdf))
+The TroFi Example Base is organized by the target words listed above.  Under each target word, first the nonliteral cluster, then the literal cluster, is given.  The order of the examples is dependent on the TroFi run in which they were clustered.  The examples from the original run are given first, in numerical order; the examples from the iterative augmentation run are given next. (See ("Birke, 2005":http://www.cs.sfu.ca/~anoop/students/jbirke/jbirke_thesis.pdf))
 
 The examples contain three tab-delimited columns.  
 
-The first column contains an identifier to link the sentence back to the WSJ source files used by TroFi.  For TroFi, 
-the WSJ sentences were split into 86 files.  In an identifier, for example wsj02:2251, the first number is the file 
-number; the second, the line within that file.  
+The first column contains an identifier to link the sentence back to the WSJ source files used by TroFi.  For TroFi, the WSJ sentences were split into 86 files.  In an identifier, for example wsj02:2251, the first number is the file number; the second, the line within that file.  
 
-The second column contains one of three labels for the status of human annotation: L (Literal), N (Nonliteral), 
-or U (Unannotated).  There are two reasons a sentence may have an annotation of L or N.  For the first run, 
-all the sentences were manually annotated for testing purposes.  For the iterative augmentation run, only those sentences 
-that were sent to the human for active learning (Birke, 2005) will have an L or N label.  All other sentences have 
-a U label for "Unannotated".  
+The second column contains one of three labels for the status of human annotation: L (Literal), N (Nonliteral), or U (Unannotated).  There are two reasons a sentence may have an annotation of L or N.  For the first run, all the sentences were manually annotated for testing purposes.  For the iterative augmentation run, only those sentences that were sent to the human for active learning (Birke, 2005) will have an L or N label.  All other sentences have a U label for "Unannotated".  
 
 The third column is the tokenized WSJ sentence.  Each sentence ends with "./."
 
