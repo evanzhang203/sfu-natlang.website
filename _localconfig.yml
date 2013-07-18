@@ -1,4 +1,4 @@
-baseurl: http://natlang.cs.sfu.ca
+baseurl: "file:///Users/anoop/git/sfu-natlang.website/_site/"
 permalink: posts/:year-:month-:day-:title
 featured:
   list_file: _featured
