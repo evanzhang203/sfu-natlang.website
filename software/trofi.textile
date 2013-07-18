@@ -27,7 +27,7 @@ End3
 
 Data:
 
-* "TroFi Example Base":http://www.cs.sfu.ca/~anoop/students/jbirke/Presentation_EACL06.ppt
+* "TroFi Example Base":http://www.cs.sfu.ca/~anoop/students/jbirke/TroFiExampleBase.txt
 
 If you use this data, please cite the following paper(s):
 
@@ -45,7 +45,7 @@ of nonliteral language.  For detailed information on the TroFi Example Base and 
 please see:
 
 * Birke, J. 2005.  "A clustering approach for the unsupervised recognition of nonliteral language":http://www.cs.sfu.ca/~anoop/students/jbirke/jbirke_thesis.pdf Masters Thesis. School of Computing Science.  Simon Fraser University.
-
+* "EACL 2006 Presentation Slides":http://www.cs.sfu.ca/~anoop/students/jbirke/Presentation_EACL06.ppt
 
 h3. Contents:
 
