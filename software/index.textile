@@ -4,11 +4,8 @@ title: Software
 pageclass: software
 ---
 
-h1(#kriya). "Kriya":kriya.html - Open-Source Statistical Machine Translation System
-
-h1(#yarowsky). "Bootstrapping with the Yarowsky algorithm":yarowsky.html
-
-h1(#lensingwikipedia). "Lensing Wikipedia":lensingwikipedia.html
-
-h1(#metaphor). "TroFi Metaphor dataset":trofi.html
+* p(#kriya). "Kriya":kriya.html - Open-Source Statistical Machine Translation System
+* p(#yarowsky). "Bootstrapping with the Yarowsky algorithm":yarowsky.html
+* p(#lensingwikipedia). "Lensing Wikipedia":lensingwikipedia.html
+* p(#metaphor). "TroFi Metaphor dataset":trofi.html
 
