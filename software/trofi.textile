@@ -4,8 +4,6 @@ title: TroFi Metaphor Dataset
 pageclass: software
 ---
 
-h1. TroFi Metaphor Dataset
-
 <pre>
 <code>
 Begin3

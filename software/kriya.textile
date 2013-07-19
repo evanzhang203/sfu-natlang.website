@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Kriya machine translation
+title: Kriya Open-Source Statistical Machine Translation System
 pageclass: software
 ---
-
-h1. Kriya - Open-Source Statistical Machine Translation System
 
 !{{ site.baseurl }}images/kriya.png(Kriya in Devanagiri.)!
 
