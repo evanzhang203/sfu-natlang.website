@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Leveraging Diverse Sources in Statistical Machine Translation
+root: ../../
 ---
 
 In the lab meeting on Wednesday, July 23, 2013, Majid Razmara will be giving a practice talk for his thesis defence. The details are below:
