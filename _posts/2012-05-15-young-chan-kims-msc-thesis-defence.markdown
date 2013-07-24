@@ -1,12 +1,7 @@
 ---
-date: '2012-05-15 14:44:09'
 layout: post
-slug: young-chan-kims-msc-thesis-defence
-status: publish
 title: Young-chan Kim's MSc thesis defence
-wordpress_id: '1645'
-categories:
-- News
+root: ../../
 ---
 
 Youngchan Kim successfully defended his MSc thesis on April 2, 2012.

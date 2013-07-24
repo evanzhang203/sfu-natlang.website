@@ -1,16 +1,7 @@
 ---
-date: '2009-06-08 15:16:49'
 layout: post
-slug: jeremy_nicholson_talk
-status: publish
 title: 'Talk: The Long and Winding Road of Deep Lexical Acquisition'
-wordpress_id: '1222'
-categories:
-- Events
-tag:
-- deep lexical acquisition
-- jeremy nicholson
-- talk
+root: ../../
 ---
 
 Speaker\: [Jeremy Nicholson](http://www.cs.mu.oz.au/~jeremymn/), Phd candidate at University of Melbourne, Australia

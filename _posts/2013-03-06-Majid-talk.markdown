@@ -1,6 +1,7 @@
 ---
-layout : post
-title : Using MapReduce for a MT experiment
+layout: post
+title: Majid talks about using our Hadoop cluster
+root: ../../
 ---
 For the lab meeting on 6 March, Majid Razmara is going to a give a talk. The details are below. 
 

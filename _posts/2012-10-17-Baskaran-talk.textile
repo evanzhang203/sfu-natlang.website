@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Compact Rule Extraction for Hierarchical Phrase-based Translation
+root: ../../
 ---
 Baskaran Sankaran will give a 20 minute talk on 17 October, 2012  at ASB 10908. 
 

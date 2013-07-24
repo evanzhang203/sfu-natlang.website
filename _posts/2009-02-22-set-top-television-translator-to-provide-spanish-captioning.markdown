@@ -1,12 +1,7 @@
 ---
-date: '2009-02-22 18:19:20'
 layout: post
-slug: set-top-television-translator-to-provide-spanish-captioning
-status: publish
 title: Set-Top Television Translator To Provide Spanish Captioning
-wordpress_id: '1106'
-categories:
-- News
+root: ../../
 ---
 
 [New York Times article from July 23, 1998](http://query.nytimes.com/gst/fullpage.html?res=9C00E7DD1539F930A15754C0A96E958260)

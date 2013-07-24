@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Two thesis proposal practice talks
+root: ../../
 ---
 
 Majid Razmara will give a talk on his thesis proposal titled "Combining Diverse Sources In Statistical Machine Translation". 

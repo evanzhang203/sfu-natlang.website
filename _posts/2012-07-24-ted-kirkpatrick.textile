@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Design talk versus science talk by Ted Kirkpatrick"
+root: ../../
 ---
 
 !<{width: 150px}http://www.cs.sfu.ca/people/Faculty/ted/ted-thumbnail.jpg(Ted Kirkpatrick)!

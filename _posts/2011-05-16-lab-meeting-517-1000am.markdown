@@ -1,12 +1,7 @@
 ---
-date: '2011-05-16 15:18:10'
 layout: post
-slug: lab-meeting-517-1000am
-status: publish
 title: 'Lab meeting: 5/17 10:00am'
-wordpress_id: '1480'
-categories:
-- Lab Meeting
+root: ../../
 ---
 
 This week’s natlang lab meeting is on Thursday May 17, 2011 at 10:00am, in TASC1 9408.

@@ -1,12 +1,7 @@
 ---
-date: '2011-03-21 23:40:30'
 layout: post
-slug: phd-depth-examination-majid-razmara
-status: publish
 title: 'PhD Depth Examination: Majid Razmara'
-wordpress_id: '1457'
-categories:
-- Events
+root: ../../
 ---
 
 **Time:** Friday, March 25th, 2011 11:00 a.m.

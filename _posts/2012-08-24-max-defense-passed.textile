@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Max Whitney passed Masters thesis defence"
+root: ../../
 ---
 
 Max Whitney successfully defended his MSc thesis on Thursday August 23 2012. "Slides from the defense":http://www2.cs.sfu.ca/~mwhitney/personal/mwhitney-msc-thesis-2012-slides.pdf are available.

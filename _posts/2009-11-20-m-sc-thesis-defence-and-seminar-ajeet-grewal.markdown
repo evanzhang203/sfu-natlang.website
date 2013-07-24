@@ -1,12 +1,7 @@
 ---
-date: '2009-11-20 09:56:16'
 layout: post
-slug: m-sc-thesis-defence-and-seminar-ajeet-grewal
-status: publish
 title: 'M. Sc. Thesis Defence and Seminar- Ajeet Grewal '
-wordpress_id: '1294'
-categories:
-- Events
+root: ../../
 ---
 
 Time\: **Tuesday, November 24, 2009 10:45 a.m.**

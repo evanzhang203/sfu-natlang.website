@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Masters thesis defence: Marzieh Razavi"
+root: ../../
 ---
 
 Marzieh Razavi will defend her MSc thesis on Thursday August 16 2012.

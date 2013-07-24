@@ -1,12 +1,7 @@
 ---
-date: '2010-10-20 11:37:54'
 layout: post
-slug: masters-thesis-defense-ann-clifton
-status: publish
 title: 'Masters thesis defense: Ann Clifton'
-wordpress_id: '1390'
-categories:
-- News
+root: ../../
 ---
 
 This thesis defense was held in the Summer of 2010 (when we were not updating the website much). So belated congratulations to Ann Clifton on passing her Masters thesis defense. Ann has since joined the lab as a Ph.D. student.

@@ -1,12 +1,7 @@
 ---
-date: '2011-01-12 20:01:47'
 layout: post
-slug: lab-meeting-thu-113-230pm
-status: publish
 title: 'Lab meeting: Thu 1/13 2:30pm  '
-wordpress_id: '1408'
-categories:
-- Lab Meeting
+root: ../../
 ---
 
 This week's natlang lab meeting is on Thursday January 13, 2011 at 2:30pm, in TASC1 9408. Readings for discussion are the following two papers from EMNLP 2010:

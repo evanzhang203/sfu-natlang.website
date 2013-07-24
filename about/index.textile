@@ -17,6 +17,9 @@ NLP can be used for the transduction of one linguistic form to another or parsin
 
 Like other artificial intelligence sub-fields, there is the issue of what knowledge the computer needs to process human language, and how is knowledge is obtained. For example, if the computer is to "learn" this knowledge, what can be learned automatically, and what can be achieved with human supervision.
 
+Our lab has a particular focus on research into statistical machine translation and the visual and textual summarization of information contained in natural language.
+
+
 h1. History of our Lab
 
 "!(pull-right){{ site.baseurl }}images/oldsite/natlang2-150x124.jpg()!":{{ site.baseurl }}images/oldsite/natlang2.jpg

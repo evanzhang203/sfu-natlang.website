@@ -1,6 +1,7 @@
 ---
-layout : post
-title : Similarity Estimation Techniques from Rounding Algorithms
+layout: post
+title: Bruce talks about Similarity Estimation from Rounding Algorithms
+root: ../../
 ---
 
 In the lab meeting on 10 April, 2013, Bruce Krayenhoff will give a talk. The details are below : 

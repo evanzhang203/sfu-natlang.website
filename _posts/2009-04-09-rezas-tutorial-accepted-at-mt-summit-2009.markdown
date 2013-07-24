@@ -1,10 +1,7 @@
 ---
-date: '2009-04-09 11:11:06'
 layout: post
-slug: rezas-tutorial-accepted-at-mt-summit-2009
-status: publish
 title: Reza's tutorial accepted at MT Summit 2009
-wordpress_id: '1184'
+root: ../../
 ---
 
 Natlang lab member [Gholamreza Haffari](http://www.cs.sfu.ca/~ghaffar1/personal/)'s tutorial on **Machine Learning Approaches for Dealing with Limited Bilingual Data in Statistical Machine Translation** was accepted for presentation at the [MT Summit XII 2009](http://summitxii.amtaweb.org/) conference.

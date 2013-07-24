@@ -127,6 +127,9 @@ module Jekyll
       bibtex['abstract'] = bibtex['abstract'].gsub(/^{+/, '').gsub(/}+$/, '') if bibtex['abstract'] != nil
       # It's hard to sort directly on the author information, so we add a
       # text verson by formatting a cut-down copy of the entry.
+      
+      bibtex.convert_latex
+      bibtex.author.to_s
       citeproc = bibtex.to_citeproc
       bibtex['authors'] = CiteProc.process({ 'author' => citeproc['author'] }, :style => cite_style, :locale => cite_locale) if citeproc['author'] != nil
       # Numeric month.

@@ -3,10 +3,10 @@
   img: images/openhouse-2012-banner.png
   text: The Natural Language Lab was at <a href="http://www.sfu.ca/openhouse/2012.html">SFU's 2012 open house</a>.
 -
-  url: software#yarowsky
+  url: software/yarowsky.html
   img: images/whitney-sarkar-yarowskyalgo-2012.png
   text: Max Whitney and Anoop Sarkar have developed implementations of the Yarowsky algorithm and related bootstrapping algorithms, to accompany their ACL 2012 paper.
 -
-  url: software#lensingwikipedia
+  url: software/lensingwikipedia.html
   img: images/lensingscreen.png
   text: <a href="http://lensingwikipedia.cs.sfu.ca/">Lensing:Wikipedia</a> is an interface to visually browse through human history as represented in Wikipedia.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AMTA debrief and JoshiFest
+root: ../../
 ---
 
 In the lab meeting on Wednesday, 7 November, 2012, Baskaran Sankaran will do a debrief of AMTA 2012, which he attended last week.  Please come prepared with questions or comments about the papers in the AMTA 2012 program:

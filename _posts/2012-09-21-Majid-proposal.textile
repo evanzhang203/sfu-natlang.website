@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Majid Razmara thesis proposal 
+root: ../../
 ---
 
 Majid will defend his thesis proposal on 21st September, 2012 at 01:30 PM. 

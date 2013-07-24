@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Talk by Mark Schmidt
+root: ../../
 ---
 
 In the lab meeting tomorrow, July 3, 2013, Mark Schmidt will give a talk. The details are below:  

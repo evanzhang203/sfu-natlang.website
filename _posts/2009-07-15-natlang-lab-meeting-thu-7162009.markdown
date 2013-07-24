@@ -1,12 +1,7 @@
 ---
-date: '2009-07-15 23:49:40'
 layout: post
-slug: natlang-lab-meeting-thu-7162009
-status: publish
 title: 'Natlang lab meeting: Thu 7/16/2009 11:30am'
-wordpress_id: '1251'
-categories:
-- Lab Meeting
+root: ../../
 ---
 
 The natlang lab meeting on Thu 7/16/2009 will be in TASC1 9408 at 11:30am. 

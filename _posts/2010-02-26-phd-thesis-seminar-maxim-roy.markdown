@@ -1,12 +1,7 @@
 ---
-date: '2010-02-26 22:55:46'
 layout: post
-slug: phd-thesis-seminar-maxim-roy
-status: publish
 title: Ph.D. Thesis Seminar- Maxim Roy
-wordpress_id: '1334'
-categories:
-- Events
+root: ../../
 ---
 
 Time\: **Monday March 1st, 2010 10:30 a.m.**

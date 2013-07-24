@@ -1,12 +1,7 @@
 ---
-date: '2009-06-21 01:59:07'
 layout: post
-slug: lab-meeting-naacl-hlt-2009-de-brief-session-1
-status: publish
 title: 'Lab meeting: NAACL HLT 2009 De-brief Session #1'
-wordpress_id: '1230'
-categories:
-- Lab Meeting
+root: ../../
 ---
 
 Date and Time\: Tuesday 6/23, 12pm-1pm

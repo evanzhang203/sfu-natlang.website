@@ -1,12 +1,7 @@
 ---
-date: '2009-05-31 10:01:00'
 layout: post
-slug: june-11th-2009-linguistics-colloquium-talk-on-summarization
-status: publish
 title: 'June 11th, 2009: Linguistics colloquium talk on Summarization'
-wordpress_id: '1199'
-categories:
-- Events
+root: ../../
 ---
 
 Gabriel Murray

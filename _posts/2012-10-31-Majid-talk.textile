@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ensemble Triangulation 
+root: ../../
 ---
 Majid Razmara will give a talk in the lab meeting tomorrow , 31st October . 
 
