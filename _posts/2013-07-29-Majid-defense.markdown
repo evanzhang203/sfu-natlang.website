@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PhD Defence - Majid Razmara
+title: PhD Defense - Majid Razmara
 ---
 
 
