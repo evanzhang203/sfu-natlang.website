@@ -28,8 +28,13 @@ pipeline: i) estimating Hiero translation model features from training data and 
 PhD Examining Committee: 
 
 Dr Anoop Sarkar, Senior Supervisor
+
 Dr Greg Mori, Supervisor
+
 Dr Gholamreza Haffari
-Dr Fred Popowish, Internal Examiner
+
+Dr Fred Popowich, Internal Examiner
+
 Dr David Chiang, External Examiner
+
 Dr Arrvindh Shriraman, Chair
