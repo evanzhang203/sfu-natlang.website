@@ -1,12 +1,7 @@
 ---
-date: '2009-03-31 22:20:53'
 layout: post
-slug: new-publication-active-learning-for-statistical-phrase-based-machine-translation
-status: publish
 title: 'New publication: Active Learning for Statistical Phrase-based Machine Translation'
-wordpress_id: '1177'
-categories:
-- Publications
+root: ../../
 ---
 
 New publication:

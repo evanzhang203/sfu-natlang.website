@@ -1,12 +1,7 @@
 ---
-date: '2009-11-20 09:32:16'
 layout: post
-slug: milans-msc-thesis-practice-talk
-status: publish
 title: Milan's M.SC. THESIS Practice Talk
-wordpress_id: '1283'
-categories:
-- Events
+root: ../../
 ---
 
 Time\: 1:30pm November 20, Friday

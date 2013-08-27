@@ -1,12 +1,7 @@
 ---
-date: '2009-11-20 09:37:33'
 layout: post
-slug: msc-thesis-defence-and-seminar-milan-tofiloski
-status: publish
 title: 'M.Sc. Thesis Defence and Seminar - Milan Tofiloski '
-wordpress_id: '1286'
-categories:
-- Events
+root: ../../
 ---
 
 Time\: **Wednesday, November 25, 2009 1:00 p.m**

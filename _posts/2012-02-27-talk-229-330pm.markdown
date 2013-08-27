@@ -1,13 +1,7 @@
 ---
-date: '2012-02-27 01:14:12'
 layout: post
-slug: talk-229-330pm
-status: publish
 title: 'Talk: 2/29 3:30pm'
-wordpress_id: '1596'
-categories:
-- Events
-- Lab Meeting
+root: ../../
 ---
 
 This week the following talk will replace our lab meeting, at the usual time and place: Wednesday February 29, 2012 at 3:30pm, in TASC1 9408.

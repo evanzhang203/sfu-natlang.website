@@ -1,12 +1,7 @@
 ---
-date: '2009-02-17 15:23:57'
 layout: post
-slug: welcome-to-the-natlang-lab
-status: publish
 title: Welcome to the SFU Natural Language Laboratory
-wordpress_id: '1020'
-categories:
-- News
+root: ../../
 ---
 
 		

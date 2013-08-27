@@ -1,6 +1,7 @@
 ---
 layout: post
 title: WATA 2012
+root: ../../
 ---
 
 !{{ site.baseurl }}images/wata-2012.png(Anoop Sarkar presents tutorial on tree-adjoining grammars at WATA 2012)!

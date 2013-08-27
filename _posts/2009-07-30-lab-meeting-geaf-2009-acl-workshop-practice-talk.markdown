@@ -1,12 +1,7 @@
 ---
-date: '2009-07-30 06:21:37'
 layout: post
-slug: lab-meeting-geaf-2009-acl-workshop-practice-talk
-status: publish
 title: 'Lab meeting: GEAF 2009 (ACL workshop) practice talk'
-wordpress_id: '1264'
-categories:
-- Lab Meeting
+root: ../../
 ---
 
 

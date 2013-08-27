@@ -1,12 +1,7 @@
 ---
-date: '2010-05-25 18:06:56'
 layout: post
-slug: smt-reading-group-summer-2010
-status: publish
 title: 'SMT Reading Group: Summer 2010 Schedule'
-wordpress_id: '1356'
-categories:
-- Events
+root: ../../
 ---
 
 The SMT reading group meets once every week to read papers about Statistical Machine Translation and related research topics.

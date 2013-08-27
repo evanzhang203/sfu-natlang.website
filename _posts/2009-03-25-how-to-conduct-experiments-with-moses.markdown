@@ -1,12 +1,7 @@
 ---
-date: '2009-03-25 18:49:13'
 layout: post
-slug: how-to-conduct-experiments-with-moses
-status: publish
 title: How to conduct experiments with Moses
-wordpress_id: '1170'
-categories:
-- Lab Meeting
+root: ../../
 ---
 
 

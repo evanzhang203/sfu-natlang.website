@@ -1,10 +1,7 @@
 ---
-date: '2011-07-19 16:09:21'
 layout: post
-slug: wmt11-practice-talk
-status: publish
 title: WMT11 Practice talk
-wordpress_id: '1508'
+root: ../../
 ---
 
 Baskaran will be giving a lab practice talk on 20 July (Wednesday). The paper is on Bayesian rule extraction for Hiero-style SMT, which has been accepted in WMT-2011.

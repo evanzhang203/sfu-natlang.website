@@ -1,12 +1,7 @@
 ---
-date: '2009-02-24 13:13:55'
 layout: post
-slug: natlang-lab-meeting-feb-25-2009
-status: publish
 title: 'Natlang Lab Meeting: Feb 25, 2009'
-wordpress_id: '1150'
-categories:
-- Lab Meeting
+root: ../../
 ---
 
 # **Hierarchical Phrase-based Translation**

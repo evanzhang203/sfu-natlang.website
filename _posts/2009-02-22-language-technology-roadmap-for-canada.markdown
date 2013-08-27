@@ -1,12 +1,7 @@
 ---
-date: '2009-02-22 18:37:30'
 layout: post
-slug: language-technology-roadmap-for-canada
-status: publish
 title: Language Technology Roadmap for Canada
-wordpress_id: '1111'
-categories:
-- News
+root: ../../
 ---
 
 Prof. Fred Popowich from the SFU Natural Language Lab has worked on the Language Technology Roadmap for Canada.

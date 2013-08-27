@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Syntax-to-Morphology Mapping in Factored SMT: Talk by Kemal Oflazer"
+root: ../../
 ---
 
 !<{width: 150px}http://www.andrew.cmu.edu/user/ko/ko-picture.jpg(Kemal Oflazer will give a talk at SFU)!

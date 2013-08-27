@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Masters thesis defence: Max Whitney"
+root: ../../
 ---
 
 Max Whitney will defend his MSc thesis on Thursday August 23 2012.

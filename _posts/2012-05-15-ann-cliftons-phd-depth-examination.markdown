@@ -1,12 +1,7 @@
 ---
-date: '2012-05-15 14:48:44'
 layout: post
-slug: ann-cliftons-phd-depth-examination
-status: publish
 title: Ann Clifton's PhD depth examination
-wordpress_id: '1649'
-categories:
-- News
+root: ../../
 ---
 
 Ann Clifton did her PhD depth examination on April 12, 2012.

@@ -1,12 +1,7 @@
 ---
-date: '2009-02-22 17:57:20'
 layout: post
-slug: ibm-faculty-award
-status: publish
 title: IBM Faculty Award 2008-2009
-wordpress_id: '1095'
-categories:
-- News
+root: ../../
 ---
 
 Dr. Anoop  Sarkar, from the Natural Language Lab at Simon Fraser University recently won the IBM Faculty Award for his research  in computational linguistics and natural language processing.

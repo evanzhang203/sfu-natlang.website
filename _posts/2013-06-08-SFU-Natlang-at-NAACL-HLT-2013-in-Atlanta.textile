@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SFU Natlang at NAACL HLT 2013 in Atlanta, GA"
+title: "SFU Natlang at NAACL HLT 2013 in Atlanta"
 root: ../../
 ---
 

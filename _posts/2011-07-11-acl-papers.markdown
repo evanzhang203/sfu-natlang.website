@@ -1,12 +1,7 @@
 ---
-date: '2011-07-11 12:24:29'
 layout: post
-slug: acl-papers
-status: publish
 title: ACL papers
-wordpress_id: '1497'
-categories:
-- Publications
+root: ../../
 ---
 
 

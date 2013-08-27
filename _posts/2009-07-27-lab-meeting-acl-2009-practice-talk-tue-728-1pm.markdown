@@ -1,12 +1,7 @@
 ---
-date: '2009-07-27 13:43:52'
 layout: post
-slug: lab-meeting-acl-2009-practice-talk-tue-728-1pm
-status: publish
 title: 'Lab meeting: ACL 2009 Practice Talk, Tue 7/28 1pm'
-wordpress_id: '1259'
-categories:
-- Lab Meeting
+root: ../../
 ---
 
 Reza will give a practice talk for his [ACL-IJCNLP 2009](http://www.acl-ijcnlp-2009.org/) presentation. 

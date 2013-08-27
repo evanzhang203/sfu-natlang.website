@@ -1,12 +1,7 @@
 ---
-date: '2011-10-01 16:31:27'
 layout: post
-slug: new-couch
-status: publish
 title: New couch
-wordpress_id: '1543'
-categories:
-- News
+root: ../../
 ---
 
 The long-awaited couch has finally shown up, and we did some rearranging of the break area.

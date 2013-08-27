@@ -1,12 +1,7 @@
 ---
-date: '2009-06-01 12:04:26'
 layout: post
-slug: best-paper-award-canadian-ai
-status: publish
 title: Best Paper Award in Canadian AI 2009
-wordpress_id: '1203'
-categories:
-- News
+root: ../../
 ---
 
 Dong Song and Anoop Sarkar won the best paper award for their paper "[Training Global Linear Models for Chinese Word Segmentation](http://www.cs.sfu.ca/~anoop/papers/pdf/cnwseg-ai2009.pdf)" in Canadian Conference on Artificial Intelligence-2009.
