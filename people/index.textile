@@ -66,7 +66,7 @@ h2. Ph.D. Students
 * Petr Kubon -- Director of Research and Development, Recombo
 * "Yudong Liu":http://www.sfu.ca/~yudongl/ -- Lecturer, "Western Washington University":http://www.wwu.edu/
 * T. (Pat) Pattabhiraman -- Senior engineer in computational linguistics, Core Technology Group, Conversay, Redmond, WA
-* Majid Razmara -- Engineering lead at "MetaOptima":http://www.metaoptima.com/
+* Majid Razmara -- Co-founder and CTO at "MetaOptima":http://www.metaoptima.com/
 * "Maxim Roy":http://www.cs.sfu.ca/~maximr/personal/ -- "Northside Inc.":http://northsideinc.com/
 * Zhongmin Shi -- CEO, Summba.com
 * "Tomek Strzalkowski":http://www.cs.albany.edu/~tomek/ -- Associate Professor, SUNY Albany
