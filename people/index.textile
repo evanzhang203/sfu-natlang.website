@@ -13,30 +13,33 @@ h2. Faculty
 
 h2. Postdoctoral Fellows
 
-* "Mark Schmidt":http://www.di.ens.fr/~mschmidt/ (July 2013)
+* "Mark Schmidt":http://www.di.ens.fr/~mschmidt/ (July 2013 -- July 2014)
 
 h2. Ph.D. Students
 
 * "Ann Clifton":http://www.cs.sfu.ca/~aca69/personal
-* "Majid Razmara":http://www.cs.sfu.ca/~mra44/personal
+* Anahita Mansouri
 * "Baskaran Sankaran":http://www.cs.sfu.ca/~bsa33/personal
 * "Maryam Siahbani":http://www.cs.sfu.ca/~msiahban/personal
 * "Milan Tofiloski":http://www.cs.sfu.ca/~mta45/personal
 
 h2. Masters Students
 
+* Te Bu
 * "Rohit Dholakia":http://rohitdholakia.com
+* "Bradley Ellert":https://plus.google.com/116607073642845995742
 * Willem (Bruce) Krayenhoff
 * David Lindberg
 * Lydia Odilinye
-* "Bradley Ellert":https://plus.google.com/116607073642845995742
 * "Jasneet Sabharwal":http://about.me/jasneetsabharwal
+* Ramtin Seraj
 
 h2. Undergraduate Students
 
-* Haotian Zhang (SFU) -- Summer 2013
-* Ziqi Wang (SFU) -- Summer 2013
+* Te Bu (Summer 2013)
 * Yuhuan Jiang ("MITACS Globalink":http://www.mitacs.ca/main.php?mid=10000426&pid=347 July 2013)
+* Haotian Zhang (SFU) -- Summer 2013, Fall 2013
+* Ziqi Wang (SFU) -- Summer 2013, Fall 2013
 
 h1. Adjunct Members
 * Dan Fass
@@ -63,6 +66,7 @@ h2. Ph.D. Students
 * Petr Kubon -- Director of Research and Development, Recombo
 * "Yudong Liu":http://www.sfu.ca/~yudongl/ -- Lecturer, "Western Washington University":http://www.wwu.edu/
 * T. (Pat) Pattabhiraman -- Senior engineer in computational linguistics, Core Technology Group, Conversay, Redmond, WA
+* Majid Razmara -- Engineering lead at "MetaOptima":http://www.metaoptima.com/
 * "Maxim Roy":http://www.cs.sfu.ca/~maximr/personal/ -- "Northside Inc.":http://northsideinc.com/
 * Zhongmin Shi -- CEO, Summba.com
 * "Tomek Strzalkowski":http://www.cs.albany.edu/~tomek/ -- Associate Professor, SUNY Albany
