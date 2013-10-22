@@ -31,7 +31,7 @@ h2. Masters Students
 * Willem (Bruce) Krayenhoff
 * David Lindberg
 * Lydia Odilinye
-* "Jasneet Sabharwal":http://about.me/jasneetsabharwal
+* "Jasneet Sabharwal":http://www.sfu.ca/~jsabharw
 * Ramtin Mehdizadeh Seraj
 
 h2. Undergraduate Students
