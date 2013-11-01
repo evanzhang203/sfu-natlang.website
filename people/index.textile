@@ -27,7 +27,7 @@ h2. Masters Students
 
 * Te Bu
 * "Rohit Dholakia":http://rohitdholakia.com
-* "Bradley Ellert":ca.linkedin.com/in/bellert/
+* "Bradley Ellert":http://ca.linkedin.com/in/bellert/
 * Willem (Bruce) Krayenhoff
 * David Lindberg
 * Lydia Odilinye
