@@ -25,7 +25,7 @@ h2. Ph.D. Students
 
 h2. Masters Students
 
-* Te Bu
+* "Te Bu":http://www.sfu.ca/~tbu
 * "Rohit Dholakia":http://rohitdholakia.com
 * "Bradley Ellert":http://ca.linkedin.com/in/bellert/
 * Willem (Bruce) Krayenhoff
