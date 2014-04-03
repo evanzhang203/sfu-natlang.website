@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Opening up the black-box: faster optimization methods for non-smooth and big-data problems
+title: Opening up the black-box
 ---
+
+Opening up the black-box, faster optimization methods for non-smooth and big-data problems
 
 In the lab meeting on Wednesday, 5th February, Mark will give a talk about faster optimization methods. The meeting will be at TASC1 9408 from 1130 hours. The details of the talk are below. 
 

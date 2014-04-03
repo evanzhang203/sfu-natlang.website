@@ -1,4 +1,5 @@
-baseurl: http://natlang.cs.sfu.ca
+markdown: rdiscount
+baseurl: http://natlang.cs.sfu.ca/
 permalink: posts/:year-:month-:day-:title
 featured:
   list_file: _featured
