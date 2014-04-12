@@ -3,7 +3,7 @@ New SFU natlang site with Jekyll and Bootstrap.
 Dependencies
 ============
 
-Tested with ruby 1.9.3p194, and building has been observed to fail with a ruby 1.8 version. Needs:
+Tested with ruby 2.1.1 and jekyll 1.5.1
 
 - unicode
 - nokogiri
@@ -11,7 +11,7 @@ Tested with ruby 1.9.3p194, and building has been observed to fail with a ruby 1
 - rdiscount
 - bibtex-ruby
 - citeproc-ruby
-- csl-ruby
+- csl-styles
 - jekyll
 
 All of the above can be installed from ruby gems. 
