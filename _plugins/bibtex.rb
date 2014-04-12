@@ -106,7 +106,10 @@ module Jekyll
       bibtex_bibtex = bibtex.dup
       # HTML formatted reference.
       remove_skip_keys(html_bibtex, out_skip_keys)
-      html = CiteProc.process(html_bibtex.to_citeproc, :style => cite_style, :locale => cite_locale, :format => 'html')
+      citeproc = html_bibtex.to_citeproc
+      cp = CiteProc::Processor.new(:style => cite_style, :locale => cite_locale, :format => 'html')
+      cp.update([citeproc])
+      html = cp.render(:bibliography, id: citeproc['id'])
       bibtex['html'] = html
       bibtex['exthtml'] = [html, append_ref].join if append_ref != nil
       # Filtered bibtex as string.
@@ -131,7 +134,11 @@ module Jekyll
       bibtex.convert_latex
       bibtex.author.to_s
       citeproc = bibtex.to_citeproc
-      bibtex['authors'] = CiteProc.process({ 'author' => citeproc['author'] }, :style => cite_style, :locale => cite_locale) if citeproc['author'] != nil
+      if citeproc['author'] != nil then
+        cp = CiteProc::Processor.new(:style => cite_style, :locale => cite_locale)
+        cp.update([{ 'id' => citeproc['id'], 'author' => citeproc['author'] }])
+        bibtex['authors'] = cp.render(:bibliography, id: citeproc['id'])
+      end
       # Numeric month.
       bibtex['monthnum'] = month_to_integer(bibtex['month'].downcase) if bibtex['month'] != nil
       # Make the key accessable to liquid.
