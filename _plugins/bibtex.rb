@@ -40,6 +40,7 @@
 
 require 'bibtex'
 require 'citeproc'
+require 'csl/styles'
 
 module Jekyll
   module Bibtex

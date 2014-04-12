@@ -1,3 +1,4 @@
+markdown: rdiscount
 baseurl: "file:///Users/anoop/git/sfu-natlang.website/_site/"
 permalink: posts/:year-:month-:day-:title
 featured:
