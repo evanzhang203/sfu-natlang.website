@@ -6,9 +6,12 @@ Dependencies
 Tested with ruby 1.9.3p194, and building has been observed to fail with a ruby 1.8 version. Needs:
 
 - unicode
+- nokogiri
 - RedCloth
+- rdiscount
 - bibtex-ruby
 - citeproc-ruby
+- csl-ruby
 - jekyll
 
 All of the above can be installed from ruby gems. 
