@@ -3586,7 +3586,7 @@ input[type="submit"].btn.btn-mini {
 }
 
 .navbar {
-  color: #999999;
+  color: #000000;
 }
 
 .navbar .brand:hover {
@@ -3824,7 +3824,7 @@ input[type="submit"].btn.btn-mini {
   *background-color: #222222;
   background-image: -ms-linear-gradient(top, #333333, #222222);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#333333), to(#222222));
-  background-image: -webkit-linear-gradient(top, #333333, #222222);
+  background-image: -webkit-linear-gradient(top, #FDFDFD, #C2D0F5);
   background-image: -o-linear-gradient(top, #333333, #222222);
   background-image: linear-gradient(top, #333333, #222222);
   background-image: -moz-linear-gradient(top, #333333, #222222);

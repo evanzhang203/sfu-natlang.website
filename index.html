@@ -14,9 +14,48 @@ extrascript: |
   });
   </script>
 ---
+<div class="span5" align=center>
+<h1 >Publications</h1>
+{% bibliography %}
+<div class="more">
+	{% assign years = '' %}
+	{% for item in bibliography %}
+		{% if item.year != lastyear %}
+		{% capture years %}{{ years | append:' ' | append:item.year }}{% endcapture %}
+		{% assign lastyear = item.year %}
+		{% endif %}
+	{% endfor %}
+	{% stringtolist years %}
 
+		<ul class="pagination" >
+			{% for year in years limit:7 %}
+			<li><a href="{{ site.baseurl }}publications#year{{ year }}">{{ year }}</a></li>
+			{% endfor %}
+			<li><a href="{{ site.baseurl }}publications">All</a></li>
+		</ul>
+	{% endstringtolist %}
+</div>
+
+
+<ul class="bibliography box-blue">
+	{% for item in bibliography limit:5 %}
+	<li align=left>{{ item.html }}</li>
+	{% endfor %}
+</ul>
+{% endbibliography %}
+
+<h1 >Calendar</h1>
+<p class="box-blue">
+	<iframe src="http://www.google.com/calendar/embed?src=gsrb686df4mefnaegqgs8kug8k%40group.calendar.google.com&#038;ctz=America/Vancouver" style="border: 0" width="520" height="390" frameborder="0" scrolling="no"></iframe>
+</p>
+
+</div>
+
+
+<div class="span5" align=center>
+<h1>News</h1>
 <div id="featured" class="carousel slide">
-	<div class="carousel-inner">
+	<div class="carousel-inner" >
 		{% assign first = true %}
 		{% featured %}
 		{% for item in featured %}
@@ -46,35 +85,7 @@ extrascript: |
 	<a class="carousel-control left" href="#featured" data-slide="prev">&lsaquo;</a>
 	<a class="carousel-control right" href="#featured" data-slide="next">&rsaquo;</a>
 </div>
-
-<h1>Publications</h1>
-{% bibliography %}
-<div class="more">
-	{% assign years = '' %}
-	{% for item in bibliography %}
-		{% if item.year != lastyear %}
-		{% capture years %}{{ years | append:' ' | append:item.year }}{% endcapture %}
-		{% assign lastyear = item.year %}
-		{% endif %}
-	{% endfor %}
-	{% stringtolist years %}
-		<ul class="yearlist">
-			{% for year in years limit:5 %}
-			<li><a href="{{ site.baseurl }}publications#year{{ year }}">{{ year }}</a></li>
-			{% endfor %}
-			<li><a href="{{ site.baseurl }}publications">All</a></li>
-		</ul>
-	{% endstringtolist %}
-</div>
-<ul class="bibliography">
-	{% for item in bibliography limit:5 %}
-	<li>{{ item.html }}</li>
-	{% endfor %}
-</ul>
-{% endbibliography %}
-
-<h1>News</h1>
-<div class="more">
+<div class="more" align=center>
 	{% assign years = '' %}
 	{% for post in site.posts %}
 		{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -84,7 +95,7 @@ extrascript: |
 		{% endif %}
 	{% endfor %}
 	{% stringtolist years %}
-		<ul class="yearlist">
+		<ul class="pagination">
 			{% for year in years limit:5 %}
 			<li><a href="{{ site.baseurl }}posts#year{{ year }}">{{ year }}</a></li>
 			{% endfor %}
@@ -92,7 +103,10 @@ extrascript: |
 		</ul>
 	{% endstringtolist %}
 </div>
+<div class="box-blue" align=left>
 {% for post in site.posts limit:5 %}
 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date | date_to_string }}</small></h2>
 {{ post.content }}
 {% endfor %}
+</div>
+</div>
