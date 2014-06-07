@@ -53,9 +53,9 @@ extrascript: |
                                  </div>
                                   <div class="row">
                                 <div class="col-6 col-sm-6 col-lg-6">
-                                <h2>Publication</h2>
+                                <h3>Publication</h3>
                                     {% bibliography %}
-					<div class="more">
+					<div class="more" align=center>
 				        {% assign years = '' %}
       					  {% for item in bibliography %}
             					    {% if item.year != lastyear %}
@@ -66,7 +66,7 @@ extrascript: |
         				{% stringtolist years %}
 
                 <ul class="pagination" >
-                        {% for year in years limit:7 %}
+                        {% for year in years limit:5 %}
                         <li><a href="{{ site.baseurl }}publications#year{{ year }}">{{ year }}</a></li>
                         {% endfor %}
                         <li><a href="{{ 	site.baseurl }}publications">All</a></li>
@@ -74,17 +74,18 @@ extrascript: |
         {% endstringtolist %}
 </div>
 
-<ul class="bibliography box-blue">
+<ul class="bibliography">
         {% for item in bibliography limit:5 %}
         <li align=left>{{ item.html }}</li>
         {% endfor %}
 </ul>
 {% endbibliography %}
 
-                                   <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                                   <p><a align="right"class="btn btn-default" href="{{site.baseurl }}publications" role="button">View all publications&raquo;</a></p>
                                   </div><!--/span-->
+
                                 <div class="col-6 col-sm-6 col-lg-6">
-                                 <h2>News</h2>
+                                 <h3>News</h3>
 <div class="more" align=center>
         {% assign years = '' %}
         {% for post in site.posts %}
@@ -103,12 +104,12 @@ extrascript: |
                 </ul>
         {% endstringtolist %}
 </div>
-<div class="box-blue" align=left>
+<div  align=left>
 {% for post in site.posts limit:5 %}
-<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date | date_to_string }}</small></h2>
+<h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date | date_to_string }}</small></h5>
 {{ post.content }}
 {% endfor %}
 </div>
-                     <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                     <p><a class="btn btn-default" href="{{ site.baseurl }}posts" role="button">View more &raquo;</a></p>
                         </div><!--/span-->
 </div>
