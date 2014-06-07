@@ -17,7 +17,40 @@ extrascript: |
                                 <div class="jumbotron">
                                         <a href="http://www.github.com/sfu-natlang"><img src="{{ site.baseurl }}logo.png" width="140" alt="Github"></a>
                                          <p><b>W</b>elcome to Natlang, natural language proceesing lab at School of Computing Science Simon Fraser University.</p>
-                                </div>
+<div id="featured" class="carousel slide">
+        <div class="carousel-inner" >
+                {% assign first = true %}
+                {% featured %}
+                {% for item in featured %}
+                <div class="item{% if first %} active{% endif %}">
+                        <div class="carousel-imagearea">
+                                {% if item.url %}
+                                <a href="{{ site.baseurl }}{{ item.url }}"><img src="{{ site.baseurl }}{{ item.img }}" alt=""></a>
+                                {% else %}
+                                <img src="{{ item.img }}" alt="">
+                                {% endif %}
+                        </div>
+                        <div class="carousel-caption">
+                                <p>
+                                {% if item.text %}
+                                {{ item.text }}
+                                {% endif %}
+                                {% if item.url %}
+                                <a href="{{ site.baseurl }}{{ item.url }}">More&hellip;</a>
+                                {% endif %}
+                                </p>
+                        </div>
+                        {% assign first = false %}
+                </div>
+                {% endfor %}
+                {% endfeatured %}
+        </div>
+        <a class="carousel-control left" href="#featured" data-slide="prev">&lsaquo;</a>
+        <a class="carousel-control right" href="#featured" data-slide="next">&rsaquo;</a>
+</div>
+                                
+
+                                 </div>
                                   <div class="row">
                                 <div class="col-6 col-sm-6 col-lg-6">
                                 <h2>Publication</h2>
@@ -52,37 +85,6 @@ extrascript: |
                                   </div><!--/span-->
                                 <div class="col-6 col-sm-6 col-lg-6">
                                  <h2>News</h2>
-<div id="featured" class="carousel slide">
-        <div class="carousel-inner" >
-                {% assign first = true %}
-                {% featured %}
-                {% for item in featured %}
-                <div class="item{% if first %} active{% endif %}">
-                        <div class="carousel-imagearea">
-                                {% if item.url %}
-                                <a href="{{ site.baseurl }}{{ item.url }}"><img src="{{ site.baseurl }}{{ item.img }}" alt=""></a>
-                                {% else %}
-                                <img src="{{ item.img }}" alt="">
-                                {% endif %}
-                        </div>
-                        <div class="carousel-caption">
-                                <p>
-                                {% if item.text %}
-                                {{ item.text }}
-                                {% endif %}
-                                {% if item.url %}
-                                <a href="{{ site.baseurl }}{{ item.url }}">More&hellip;</a>
-                                {% endif %}
-                                </p>
-                        </div>
-                        {% assign first = false %}
-                </div>
-                {% endfor %}
-                {% endfeatured %}
-        </div>
-        <a class="carousel-control left" href="#featured" data-slide="prev">&lsaquo;</a>
-        <a class="carousel-control right" href="#featured" data-slide="next">&rsaquo;</a>
-</div>
 <div class="more" align=center>
         {% assign years = '' %}
         {% for post in site.posts %}
@@ -107,10 +109,6 @@ extrascript: |
 {{ post.content }}
 {% endfor %}
 </div>
-
                      <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-
                         </div><!--/span-->
-
-
 </div>
