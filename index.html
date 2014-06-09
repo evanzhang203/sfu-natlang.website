@@ -57,7 +57,7 @@ extrascript: |
 </div>
                                  </div>
                                   <div class="row">
-                                <div class="col-6 col-sm-6 col-lg-6">
+                                <div class="col-6 col-sm-5 col-lg-5">
                                 <h3>Publication</h3>
                                     {% bibliography %}
 					<div class="more" align=center>
@@ -70,7 +70,7 @@ extrascript: |
       				  	{% endfor %}
         				{% stringtolist years %}
 
-                <ul class="pagination" >
+                <ul class="yearlist" >
                         {% for year in years limit:5 %}
                         <li><a href="{{ site.baseurl }}publications#year{{ year }}">{{ year }}</a></li>
                         {% endfor %}
@@ -101,7 +101,7 @@ extrascript: |
                 {% endif %}
         {% endfor %}
         {% stringtolist years %}
-                <ul class="pagination">
+                <ul class="yearlist">
                         {% for year in years limit:5 %}
                         <li><a href="{{ site.baseurl }}posts#year{{ year }}">{{ year }}</a></li>
                         {% endfor %}
