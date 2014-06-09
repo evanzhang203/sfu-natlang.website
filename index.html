@@ -1,120 +1,120 @@
 ---
 layout: default
-title: 
+title:
 pageclass: frontpage
 extrascript: |
   <script type="text/javascript">
   $(function() {
-  	var featured = $('#featured');
-  	var num = $('#featured .carousel-inner .item').length;
-  	featured.carousel({interval: false, pause: true});
-  	featured.removeClass('slide');
-  	featured.carousel(Math.floor(Math.random() * num));
-  	featured.addClass('slide');
+        var featured = $('#featured');
+        var num = $('#featured .carousel-inner .item').length;
+        featured.carousel({interval: false, pause: true});
+        featured.removeClass('slide');
+        featured.carousel(Math.floor(Math.random() * num));
+        featured.addClass('slide');
   });
   </script>
 ---
-                                <div class="jumbotron">
-                                        <a href="http://www.github.com/sfu-natlang"><img src="{{ site.baseurl }}logo.png" width="140" alt="Github"></a>
-                                         <p><b>W</b>elcome to Natlang, natural language proceesing lab at School of Computing Science Simon Fraser University.</p>
-<div align=center>
-<div align=center style="width:630px;" class="row">
-<div style="background-color:#FFFFFF"class="alert alert-info">
-<div id="featured" class="carousel slide">
-        <div class="carousel-inner" >
-                {% assign first = true %}
-                {% featured %}
-                {% for item in featured %}
-                <div class="item{% if first %} active{% endif %}">
-                        <div class="carousel-imagearea">
-                                {% if item.url %}
-                                <a href="{{ site.baseurl }}{{ item.url }}"><img src="{{ site.baseurl }}{{ item.img }}" alt=""></a>
-                                {% else %}
-                                <img src="{{ item.img }}" alt="">
-                                {% endif %}
-                        </div>
-                        <div style="position:relative;" class="">
-                                <p>
-                                {% if item.text %}
-                                {{ item.text }}
-                                {% endif %}
-                                {% if item.url %}
-                                <a href="{{ site.baseurl }}{{ item.url }}">More&hellip;</a>
-                                {% endif %}
-                                </p>
-                        </div>
-                        {% assign first = false %}
-                </div>
-                {% endfor %}
-                {% endfeatured %}
-        </div>
-        <a class="carousel-control left" href="#featured" data-slide="prev">&lsaquo;</a>
-        <a class="carousel-control right" href="#featured" data-slide="next">&rsaquo;</a>
-</div>
-</div></div> 
+<div class="jumbotron">
+	<a href="http://www.github.com/sfu-natlang"><img src="{{ site.baseurl }}logo.png" width="140" alt="Github"></a>
+	<p><b>W</b>elcome to Natlang, natural language proceesing lab at School of Computing Science Simon Fraser University.</p>
+	<div align=center>
+		<div align=center style="width:630px;" class="row">
+			<div style="background-color:#FFFFFF"class="alert alert-info">
+				<div id="featured" class="carousel slide">
+					<div class="carousel-inner" >
+						{% assign first = true %}
+						{% featured %}
+						{% for item in featured %}
+						<div class="item{% if first %} active{% endif %}">
+							<div class="carousel-imagearea">
+								{% if item.url %}
+								<a href="{{ site.baseurl }}{{ item.url }}"><img src="{{ site.baseurl }}{{ item.img }}" alt=""></a>
+								{% else %}
+								<img src="{{ item.img }}" alt="">
+								{% endif %}
+							</div>
+							<div style="position:relative;" class="">
+								<p>
+								{% if item.text %}
+								{{ item.text }}
+								{% endif %}
+								{% if item.url %}
+								<a href="{{ site.baseurl }}{{ item.url }}">More&hellip;</a>
+								{% endif %}
+								</p>
+							</div>
+							{% assign first = false %}
+						</div>
+						{% endfor %}
+						{% endfeatured %}
+					</div>
+					<a class="carousel-control left" href="#featured" data-slide="prev">&lsaquo;</a>
+					<a class="carousel-control right" href="#featured" data-slide="next">&rsaquo;</a>
+				</div>
+		</div></div> 
 
-                            
-</div>
-                                 </div>
-                                  <div class="row">
-                                <div class="col-6 col-sm-5 col-lg-5">
-                                <h3>Publication</h3>
-                                    {% bibliography %}
-					<div class="more" align=center>
-				        {% assign years = '' %}
-      					  {% for item in bibliography %}
-            					    {% if item.year != lastyear %}
-           					     {% capture years %}{{ years | append:' ' | append:item.year }}{% endcapture %}
-            					    {% assign lastyear = item.year %}
-           				     {% endif %}
-      				  	{% endfor %}
-        				{% stringtolist years %}
 
-                <ul class="yearlist" >
-                        {% for year in years limit:5 %}
-                        <li><a href="{{ site.baseurl }}publications#year{{ year }}">{{ year }}</a></li>
-                        {% endfor %}
-                        <li><a href="{{ 	site.baseurl }}publications">All</a></li>
-                </ul>
-        {% endstringtolist %}
+	</div>
 </div>
+<div class="row">
+	<div class="col-6 col-sm-5 col-lg-5">
+		<h3>Publication</h3>
+		{% bibliography %}
+		<div class="more" align=center>
+			{% assign years = '' %}
+			{% for item in bibliography %}
+			{% if item.year != lastyear %}
+			{% capture years %}{{ years | append:' ' | append:item.year }}{% endcapture %}
+			{% assign lastyear = item.year %}
+			{% endif %}
+			{% endfor %}
+			{% stringtolist years %}
 
-<ul class="bibliography">
-        {% for item in bibliography limit:5 %}
-        <li align=left>{{ item.html }}</li>
-        {% endfor %}
-</ul>
-{% endbibliography %}
+			<ul class="yearlist" >
+				{% for year in years limit:5 %}
+				<li><a href="{{ site.baseurl }}publications#year{{ year }}">{{ year }}</a></li>
+				{% endfor %}
+				<li><a href="{{ 	site.baseurl }}publications">All</a></li>
+			</ul>
+			{% endstringtolist %}
+		</div>
 
-                                   <p><a align="right"class="btn btn-default" href="{{site.baseurl }}publications" role="button">View all publications&raquo;</a></p>
-                                  </div><!--/span-->
+		<ul class="bibliography">
+			{% for item in bibliography limit:5 %}
+			<li align=left>{{ item.html }}</li>
+			{% endfor %}
+		</ul>
+		{% endbibliography %}
 
-                                <div class="col-6 col-sm-6 col-lg-6">
-                                 <h3>News</h3>
-<div class="more" align=center>
-        {% assign years = '' %}
-        {% for post in site.posts %}
-                {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-                {% if year != lastyear %}
-                {% capture years %}{{ years | append:' ' | append:year }}{% endcapture %}
-                {% assign lastyear = year %}
-                {% endif %}
-        {% endfor %}
-        {% stringtolist years %}
-                <ul class="yearlist">
-                        {% for year in years limit:5 %}
-                        <li><a href="{{ site.baseurl }}posts#year{{ year }}">{{ year }}</a></li>
-                        {% endfor %}
-                        <li><a href="{{ site.baseurl }}posts">All</a></li>
-                </ul>
-        {% endstringtolist %}
-</div>
-<div  align=left>
-{% for post in site.posts limit:5 %}
-<h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date | date_to_string }}</small></h5>
-{{ post.content }}
-{% endfor %}
-</div>
-                     <p><a class="btn btn-default" href="{{ site.baseurl }}posts" role="button">View more &raquo;</a></p>
-                        </div><!--/span-->
+		<p><a align="right"class="btn btn-default" href="{{site.baseurl }}publications" role="button">View all publications&raquo;</a></p>
+	</div><!--/span-->
+
+	<div class="col-6 col-sm-6 col-lg-6">
+		<h3>News</h3>
+		<div class="more" align=center>
+			{% assign years = '' %}
+			{% for post in site.posts %}
+			{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+			{% if year != lastyear %}
+			{% capture years %}{{ years | append:' ' | append:year }}{% endcapture %}
+			{% assign lastyear = year %}
+			{% endif %}
+			{% endfor %}
+			{% stringtolist years %}
+			<ul class="yearlist">
+				{% for year in years limit:5 %}
+				<li><a href="{{ site.baseurl }}posts#year{{ year }}">{{ year }}</a></li>
+				{% endfor %}
+				<li><a href="{{ site.baseurl }}posts">All</a></li>
+			</ul>
+			{% endstringtolist %}
+		</div>
+		<div  align=left>
+			{% for post in site.posts limit:5 %}
+			<h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small class="date">{{ post.date | date_to_string }}</small></h5>
+			{{ post.content }}
+			{% endfor %}
+		</div>
+		<p><a class="btn btn-default" href="{{ site.baseurl }}posts" role="button">View more &raquo;</a></p>
+	</div><!--/span-->
 </div>
