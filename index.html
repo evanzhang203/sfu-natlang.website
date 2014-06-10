@@ -12,14 +12,52 @@ extrascript: |
         featured.carousel(Math.floor(Math.random() * num));
         featured.addClass('slide');
   });
+  $(document).ready(function() {
+        $("#owl-demo").owlCarousel({
+            autoPlay : 3000,
+            stopOnHover : true,
+            navigation:true,
+            paginationSpeed : 1000,
+            goToFirstSpeed : 2000,
+            singleItem : true,
+            autoHeight : true,
+            transitionStyle:"fade"
+      });
+    });
   </script>
 ---
 <div class="jumbotron">
+
+   <div id="demo">
+      <div class="container">
+        <div class="row">
+          <div class="span12">
+
+            <div id="owl-demo" class="owl-carousel">
+              <div><img src="http://placehold.it/1170x300/42bdc2/FFFFFF"></div>
+              <div><img src="http://placehold.it/1170x400/42bdc2/FFFFFF"></div>
+              <div><img src="http://placehold.it/1170x500/42bdc2/FFFFFF"></div>
+              <div><img src="http://placehold.it/1170x200/42bdc2/FFFFFF"></div>
+              <div><img src="http://placehold.it/1170x500/42bdc2/FFFFFF"></div>
+              <div><img src="http://placehold.it/1170x250/42bdc2/FFFFFF"></div>
+              <div><img src="http://placehold.it/1170x350/42bdc2/FFFFFF"></div>
+              <div><img src="http://placehold.it/1170x300/42bdc2/FFFFFF"></div>
+              <div><img src="http://placehold.it/1170x100/42bdc2/FFFFFF"></div>
+              <div><img src="http://placehold.it/1170x500/42bdc2/FFFFFF"></div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
 	<a href="http://www.github.com/sfu-natlang"><img src="{{ site.baseurl }}logo.png" width="140" alt="Github"></a>
 	<p><b>W</b>elcome to Natlang, natural language proceesing lab at School of Computing Science Simon Fraser University.</p>
 	<div align=center>
 		<div align=center style="width:630px;" class="row">
 			<div style="background-color:#FFFFFF"class="alert alert-info">
+
+
 				<div id="featured" class="carousel slide">
 					<div class="carousel-inner" >
 						{% assign first = true %}
