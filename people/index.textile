@@ -34,6 +34,7 @@ h2. Masters Students
 * "Jasneet Sabharwal":http://www.sfu.ca/~jsabharw
 * "Mehdi Soleimani":http://www.sfu.ca/~mahdis
 * "Ramtin Mehdizadeh Seraj":http://www.sfu.ca/~rmehdiza
+* Zhelun Wu
 
 h2. Undergraduate Students
 
