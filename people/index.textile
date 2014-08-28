@@ -11,22 +11,16 @@ h2. Faculty
 * "Fred Popowich":http://www.cs.sfu.ca/~popowich
 * "Anoop Sarkar":http://www.cs.sfu.ca/~anoop
 
-h2. Postdoctoral Fellows
-
-* "Mark Schmidt":http://www.di.ens.fr/~mschmidt/ (July 2013 -- July 2014)
-
 h2. Ph.D. Students
 
 * "Ann Clifton":http://www.cs.sfu.ca/~aca69/personal
 * Anahita Mansouri
-* "Baskaran Sankaran":http://www.cs.sfu.ca/~bsa33/personal
 * "Maryam Siahbani":http://www.cs.sfu.ca/~msiahban/personal
 * "Milan Tofiloski":http://www.cs.sfu.ca/~mta45/personal
 
 h2. Masters Students
 
 * "Te Bu":http://www.sfu.ca/~tbu
-* "Rohit Dholakia":http://rohitdholakia.com
 * "Bradley Ellert":http://ca.linkedin.com/in/bellert/
 * Willem (Bruce) Krayenhoff
 * David Lindberg
@@ -38,10 +32,6 @@ h2. Masters Students
 
 h2. Undergraduate Students
 
-* Te Bu (Summer 2013)
-* Yuhuan Jiang ("MITACS Globalink":http://www.mitacs.ca/main.php?mid=10000426&pid=347 July 2013)
-* Haotian Zhang (SFU) -- Summer 2013, Fall 2013
-* Ziqi Wang (SFU) -- Summer 2013, Fall 2013
 
 h1. Adjunct Members
 * Dan Fass
@@ -58,6 +48,11 @@ h2. Students
 
 h1. Lab Alumnae and Alumni
 
+h2. Postdoctoral Fellows
+
+* "Mark Schmidt":http://www.di.ens.fr/~mschmidt/ -- Assistant Professor at University of British Columbia
+
+
 h2. Ph.D. Students
 
 * Caroline Barrière -- Research Officer, Interactive Language Technologies, NRC Institute for Information Technology
@@ -70,6 +65,7 @@ h2. Ph.D. Students
 * T. (Pat) Pattabhiraman -- Senior engineer in computational linguistics, Core Technology Group, Conversay, Redmond, WA
 * Majid Razmara -- Co-founder and CTO at "MetaOptima":http://www.metaoptima.com/
 * "Maxim Roy":http://www.cs.sfu.ca/~maximr/personal/ -- "Northside Inc.":http://northsideinc.com/
+* "Baskaran Sankaran":http://www.cs.sfu.ca/~bsa33/personal -- 
 * Zhongmin Shi -- CEO, Summba.com
 * "Tomek Strzalkowski":http://www.cs.albany.edu/~tomek/ -- Associate Professor, SUNY Albany
 * "Jörg Überla":http://www.linkedin.com/pub/j%C3%B6rg-%C3%BCberla/0/3a9/286 -- Venture Partner at Wellington Partners
@@ -77,6 +73,7 @@ h2. Ph.D. Students
 
 h2. Masters Students
 
+* "Rohit Dholakia":http://rohitdholakia.com
 * Zahra Behfarshad (UBC student, worked as programmer on our Lensing Wikipedia project)
 * "Ravikiran Vadlapudi":http://www.cs.sfu.ca/~rvadlapu/personal -- Nuance Communications, Montreal
 * "Marzieh Razavi":http://www.cs.sfu.ca/~mrazavi/personal -- Ph.D. student at EPFL
@@ -107,6 +104,10 @@ h2. Masters Students
 
 h2. Undergraduate Students
 
+* Te Bu (Summer 2013)
+* Yuhuan Jiang ("MITACS Globalink":http://www.mitacs.ca/main.php?mid=10000426&pid=347 July 2013)
+* Haotian Zhang (SFU) -- Summer 2013, Fall 2013
+* Ziqi Wang (SFU) -- Summer 2013, Fall 2013
 * Mengyun Kong. SFU-Zhejiang University dual-degree program. 2011.
 * Diptesh Chatterjee. IIT Kharagpur. 2010 ("MITACS Globalink":http://www.mitacs.ca/main.php?mid=10000426&pid=347)
 * Manaal Faruqui. IIT Kharagpur. 2009 ("MITACS Globalink":http://www.mitacs.ca/main.php?mid=10000426&pid=347)
