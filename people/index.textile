@@ -23,7 +23,6 @@ h2. Masters Students
 * "Te Bu":http://www.sfu.ca/~tbu
 * "Bradley Ellert":http://ca.linkedin.com/in/bellert/
 * Willem (Bruce) Krayenhoff
-* David Lindberg
 * Lydia Odilinye
 * "Jasneet Sabharwal":http://www.sfu.ca/~jsabharw
 * "Mehdi Soleimani":http://www.sfu.ca/~mahdis
@@ -73,7 +72,8 @@ h2. Ph.D. Students
 
 h2. Masters Students
 
-* "Rohit Dholakia":http://rohitdholakia.com
+* "Rohit Dholakia":http://rohitdholakia.com -- Simba Technologies
+* David Lindberg -- Semantic Engineer at Marketing.Ai
 * Zahra Behfarshad (UBC student, worked as programmer on our Lensing Wikipedia project)
 * "Ravikiran Vadlapudi":http://www.cs.sfu.ca/~rvadlapu/personal -- Nuance Communications, Montreal
 * "Marzieh Razavi":http://www.cs.sfu.ca/~mrazavi/personal -- Ph.D. student at EPFL
