@@ -104,6 +104,7 @@ h2. Masters Students
 
 h2. Undergraduate Students
 
+* Evan Zhang (SFU) -- 2013 - Present
 * Te Bu (Summer 2013)
 * Yuhuan Jiang ("MITACS Globalink":http://www.mitacs.ca/main.php?mid=10000426&pid=347 July 2013)
 * Haotian Zhang (SFU) -- Summer 2013, Fall 2013
